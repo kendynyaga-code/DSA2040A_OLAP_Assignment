@@ -1,160 +1,130 @@
-Kendi Nyaga -807
-# Data Warehouse Implementation: ROLAP, MOLAP, and HOLAP Analysis
+# 🗄️ OLAP System with SQLite + Pandas
 
-## Overview
-This project demonstrates the implementation of a data warehouse using three different OLAP (Online Analytical Processing) approaches:
-- **ROLAP** (Relational OLAP)
-- **MOLAP** (Multidimensional OLAP) 
-- **HOLAP** (Hybrid OLAP)
+## 📌 Project Description
 
-The implementation analyzes employee salary data across different departments using SQL aggregation, pivot tables, and hybrid techniques.
+This project demonstrates the design and implementation of a **mini OLAP (Online Analytical Processing) system** using **SQLite, Pandas, and Seaborn/Matplotlib**.
+It covers **ROLAP, MOLAP, and HOLAP architectures**, along with key **OLAP operations**: Slice, Dice, Roll-Up, and Drill-Down.
+The project also provides visualizations to showcase insights from multidimensional data analysis.
 
-## Project Structure
+---
 
-### 1. Database Schema
-The project uses two main tables:
+## 🛠️ Schema Design (Star Schema)
 
-#### Employees Table
-- **name**: Employee name
-- **dept_name**: Department name
-- **salary**: Employee salary
-- **age**: Employee age
+The database follows a **Star Schema** with **dimension tables** and a **fact table**.
 
-#### Departments Table
-- **dept_name**: Department name
-- **location**: Department location
+### **1. Dimension Tables**
 
-### 2. Sample Data
-The dataset includes employees from three departments:
-- **Engineering**: 2 employees (Bob, David)
-- **HR**: 3 employees (Alice, Charlie, Frank)
-- **Sales**: 1 employee (Eve)
+#### `products`
 
-## OLAP Implementations
+| Column     | Type         | Description                                     |
+| ---------- | ------------ | ----------------------------------------------- |
+| product_id | INTEGER (PK) | Unique identifier for each product              |
+| category   | TEXT         | Product category (Electronics, Furniture, etc.) |
+| name       | TEXT         | Product name                                    |
+| price      | DECIMAL      | Unit price of product                           |
 
-### 1. ROLAP (Relational OLAP)
-**Implementation**: SQL aggregation using pandas operations
+#### `dates`
 
-**Analysis**: Average salary by department
-```python
-rolap_result = df.groupby('dept_name')['salary'].mean().reset_index()
-```
+| Column     | Type      | Description           |
+| ---------- | --------- | --------------------- |
+| date       | DATE (PK) | Transaction date      |
+| year       | INTEGER   | Year of sale          |
+| quarter    | INTEGER   | Quarter of year (1–4) |
+| month      | INTEGER   | Month number          |
+| month_name | TEXT      | Month name            |
 
-**Results**:
-| Department  | Average Salary |
-|-------------|----------------|
-| Engineering | $77,500.00     |
-| HR          | $93,333.33     |
-| Sales       | $60,000.00     |
+---
 
-**Visualization**: Bar chart showing average salaries across departments
+### **2. Fact Table**
 
-### 2. MOLAP (Multidimensional OLAP)
-**Implementation**: Pivot table creating a data cube
+#### `sales`
 
-**Analysis**: Department vs Age salary analysis
-```python
-molap_cube = pd.pivot_table(df, values='salary', index='dept_name', 
-                           columns='age', aggfunc='mean', fill_value=0)
-```
+| Column     | Type         | Description                         |
+| ---------- | ------------ | ----------------------------------- |
+| sale_id    | INTEGER (PK) | Unique identifier for each sale     |
+| date       | DATE (FK)    | Transaction date (links to `dates`) |
+| product_id | INTEGER (FK) | Product sold (links to `products`)  |
+| quantity   | INTEGER      | Quantity sold                       |
+| revenue    | DECIMAL      | Total revenue (quantity × price)    |
 
-**Cube Structure**:
-- **Dimensions**: Department, Age
-- **Measure**: Salary
-- **Cells**: Average salary for each department-age combination
+---
 
-**Results**:
-| Department  | 28     | 30     | 32     | 35     | 40     | 45     |
-|-------------|--------|--------|--------|--------|--------|--------|
-| Engineering | 0      | 0      | 75,000 | 80,000 | 0      | 0      |
-| HR          | 0      | 70,000 | 0      | 0      | 120,000| 90,000 |
-| Sales       | 60,000 | 0      | 0      | 0      | 0      | 0      |
+## 🔍 OLAP Architectures Implemented
 
-**Visualization**: Heatmap showing salary distribution across departments and ages
+### **1. ROLAP (Relational OLAP)**
 
-### 3. HOLAP (Hybrid OLAP)
-**Implementation**: Combines relational and multidimensional approaches
+ROLAP queries are executed directly on the **SQLite database** using SQL.
+Examples:
 
-**Analysis**: Summary of average salary by department using both techniques
-```python
-holap_summary = df.groupby('dept_name')['salary'].mean().reset_index()
-```
+* **Average Revenue by Product Category**
+* **Total Sales by Year**
+* **Best-Selling Products in Each Category**
 
-**Results**: Same as ROLAP but demonstrates hybrid approach capability
+---
 
-## OLAP Operations Demonstrated
+### **2. MOLAP (Multidimensional OLAP)**
 
-### 1. Slice Operation
-**Definition**: Extracting a sub-cube by selecting specific dimension values
+MOLAP is implemented by building **data cubes in Pandas** after fetching data.
+Examples:
 
-**Implementation**: Filtering for IT Department
-```python
-slice_result = df[df['dept_name'] == 'IT']
-```
+* **Revenue Cube (Category × Year)**
+* **Quantity Cube (Category × Year)**
+  These cubes allow fast aggregation across multiple dimensions.
 
-**Result**: Empty DataFrame (no IT department in sample data)
+---
 
-### 2. Dice Operation
-**Definition**: Selecting specific values from multiple dimensions
+### **3. HOLAP (Hybrid OLAP)**
 
-**Implementation**: HR Department with salary > $60,000
-```python
-dice_result = df[(df['dept_name'] == 'HR') & (df['salary'] > 60000)]
-```
+HOLAP combines SQL queries (ROLAP) with Pandas cubes (MOLAP).
+Steps:
 
-**Results**:
-- Alice (HR): $70,000
-- Charlie (HR): $120,000
-- Frank (HR): $90,000
+1. **SQL (ROLAP):** Fetch detailed data (e.g., sales in 2024).
+2. **Pandas (MOLAP):** Build a cube summarizing **Revenue by Category × Month**.
 
-## Key Findings
+---
 
-### Salary Analysis
-1. **Highest Average Salary**: HR Department ($93,333.33)
-2. **Lowest Average Salary**: Sales Department ($60,000.00)
-3. **Engineering Average**: $77,500.00
+## 🔄 OLAP Operations
 
-### Age Distribution
-- **Engineering**: Employees aged 32-35
-- **HR**: Wide age distribution (30, 40, 45)
-- **Sales**: Single employee aged 28
+1. **Slice**
 
-### Department Insights
-- **HR** has the highest salary range and most diverse age distribution
-- **Engineering** shows moderate salaries with younger workforce
-- **Sales** has the smallest team with lowest average salary
+   * Fix one dimension (e.g., sales in `2023` only).
 
-## Technical Implementation Details
+2. **Dice**
 
-### Libraries Used
-- **pandas**: Data manipulation and analysis
-- **matplotlib**: Data visualization
-- **numpy**: Numerical operations
+   * Apply multiple filters (e.g., sales in `2023` AND category = Electronics).
 
-### Data Processing Steps
-1. **Data Creation**: Sample employee and department data
-2. **ROLAP Processing**: SQL-like groupby operations
-3. **MOLAP Processing**: Pivot table creation
-4. **HOLAP Processing**: Combined approach
-5. **OLAP Operations**: Slice and dice implementations
-6. **Visualization**: Charts and heatmaps
+3. **Roll-Up**
 
-## Business Applications
+   * Aggregate from detailed → summarized (e.g., product → category → year).
 
-This implementation demonstrates how organizations can:
+4. **Drill-Down**
 
-1. **Compare departmental compensation** strategies
-2. **Analyze salary distribution** across age groups
-3. **Identify compensation trends** for workforce planning
-4. **Support HR decisions** for salary benchmarking
-5. **Enable multidimensional analysis** for strategic planning
+   * Break down summarized data into finer detail (e.g., Year → Quarter → Month).
 
-## Future Enhancements
+---
 
-1. **Add more dimensions**: Location, experience level, education
-2. **Implement drill-down operations**: Department → Team → Individual
-3. **Add time dimension**: Historical salary trends
-4. **Implement roll-up operations**: Aggregate to higher levels
-5. **Add more complex measures**: Bonus, benefits, total compensation
+## 📊 Visualizations
 
-This project serves as a comprehensive example of data warehouse OLAP implementations, showcasing different approaches to multidimensional data analysis in a business context.
+* **Bar Plot** → Average revenue by product category
+* **Heatmap** → Revenue cube (Category × Year)
+* **Line Plot** → Total revenue trends by year
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/your-username/DSA2040A_OLAP_Assignment.git
+   ```
+2. Install dependencies:
+
+   ```bash
+   pip install pandas numpy matplotlib seaborn sqlite3
+   ```
+3. Run the Jupyter Notebook or Python script:
+
+   ```bash
+   python olap_system.py
+   ```
