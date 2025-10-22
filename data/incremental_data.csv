@@ -1,0 +1,1001 @@
+student_id,name,gender,age,subject,exam_score,exam_date,region,grade_level,school
+2647,Martha Walsh,Male,24,English,51.95,2025-07-15,Port Maryview,Year 2,"Cohen, Thornton and Smith"
+7962,Daniel Hughes,Male,23,Computer,85.78,2025-07-03,East Jessicafurt,Year 2,"Washington, Jenkins and Moore"
+8774,Christina Bates,Male,24,Math,98.05,2025-06-22,Port Joseph,Year 2,Martin Group
+5926,Kaitlyn Yates,Female,24,Computer,82.64,2024-10-21,New Emily,Year 1,"Martin, Mitchell and Wright"
+3111,James Kirby,Female,19,English,51.23,2025-03-24,Robertville,Year 2,Robinson-Clark
+6352,Linda Barnes,Male,20,Science,70.52,2025-05-11,South Emily,Year 3,"Frost, Washington and Freeman"
+3163,Jesse Jones,Female,25,Computer,91.51,2025-03-02,Daviesberg,Year 3,Morrow-Warren
+5097,Carolyn Jones,Female,20,Math,94.9,2025-01-05,West Melissastad,Year 2,Sherman-Gonzalez
+1753,Anthony Hebert,Male,24,English,96.86,2025-03-18,Sierrafort,Year 2,Fernandez and Sons
+6241,Joseph Gibson,Male,23,English,40.88,2024-10-21,Ericville,Year 1,Shepard and Sons
+6799,Gregory Webb,Male,18,Computer,86.57,2025-05-11,Gonzalezfurt,Year 4,"Chapman, Barton and Hunt"
+7584,Rebecca Howard,Female,18,Science,90.33,2024-12-01,Phillipsland,Year 4,"Cherry, Riley and Harrison"
+9504,Susan Young,Male,19,Math,64.69,2025-03-27,Port David,Year 1,"Gonzalez, Carrillo and Sloan"
+2090,Jeffrey Klein,Female,24,Computer,81.5,2024-11-20,Whitneyport,Year 2,Wilson-Martinez
+5507,Michael Carr,Female,19,Computer,85.03,2025-06-24,Johnborough,Year 3,Harrison Group
+5364,Rachel Becker,Male,21,Math,68.69,2025-08-10,Ericstad,Year 3,Hunt-Wright
+4273,Jonathan Daniel,Male,23,History,50.31,2025-04-22,Taylorport,Year 3,Mitchell Inc
+5726,Tara Johnson,Male,23,History,54.06,2025-01-06,Moorebury,Year 4,"Blair, Allison and Moore"
+6343,Nicole Gonzalez,Male,25,Computer,96.41,2025-05-10,East Valerieberg,Year 3,Turner PLC
+1522,Chad Allen,Female,20,History,64.53,2025-06-30,South Andreatown,Year 4,Garza Inc
+6419,John Davidson,Male,19,History,52.26,2025-03-27,Robertview,Year 4,Hawkins Ltd
+8900,Anthony Neal,Male,19,Math,82.44,2025-09-25,Friedmanshire,Year 2,"Avila, Yang and Lewis"
+7777,Francisco Henry,Female,23,Math,47.01,2024-11-28,New Abigailfort,Year 4,Smith-Phillips
+3154,David Russell,Female,20,History,48.62,2025-04-15,Forbesport,Year 3,"Valdez, Garcia and Bailey"
+2151,Joseph Savage,Female,24,English,60.63,2025-04-24,North Miranda,Year 3,Saunders-Manning
+3280,Kristina Byrd,Female,24,Computer,98.78,2025-03-27,Lake Amberton,Year 3,Jones Ltd
+2218,Nancy Morgan,Female,25,History,51.29,2024-12-03,North Rebeccastad,Year 1,Robinson-Moran
+7452,Kelly Gutierrez,Male,25,Math,55.95,2025-08-25,West Robertamouth,Year 3,Wells-Chapman
+5622,James Wilson,Male,25,English,52.22,2025-01-06,Aprilbury,Year 3,"Jones, Price and Pierce"
+5824,Jacqueline Evans,Male,18,Math,94.38,2025-09-24,Toddside,Year 4,Allen and Sons
+8309,Mary Sharp,Male,20,History,48.1,2025-04-04,North Cherylstad,Year 2,Macdonald-Myers
+1035,Shannon Garcia,Female,24,English,52.56,2025-02-12,South Adam,Year 3,"Wilson, Miller and Moore"
+6916,Tina Johnston,Female,22,Science,64.07,2025-03-22,Bartonmouth,Year 2,Flowers-Owens
+6455,Marie Mays,Female,21,English,73.54,2025-07-23,Lake Deniseton,Year 4,Russell-Boyd
+2165,Erica Campbell,Male,25,Math,91.97,2025-04-23,Aaronside,Year 3,"Olson, Buckley and Henson"
+2089,Dylan Odonnell,Female,23,History,79.02,2025-02-19,Joshuatown,Year 2,Jackson-Gonzalez
+5309,Anthony Becker,Female,24,Science,46.99,2025-08-02,Port Michael,Year 3,Hernandez Group
+1502,Theresa Simmons,Female,23,Science,68.17,2025-01-10,Edwardsmouth,Year 4,Blake-Lewis
+8631,Stacey Flores,Male,23,Computer,63.06,2025-03-11,Stevenview,Year 2,"Fitzgerald, Taylor and Johnson"
+7953,Mr. Benjamin James,Female,18,Computer,72.41,2024-11-04,North Cole,Year 4,Kelley LLC
+8041,Aaron Wilson,Male,19,Math,69.47,2025-06-13,South Tanya,Year 2,Owens-Clay
+3772,Gina Graham,Male,20,Science,90.34,2025-07-15,New Jonshire,Year 4,Parrish-Hawkins
+4863,Whitney Nichols,Male,18,Science,48.16,2025-07-08,Amandaburgh,Year 1,Ray-Stevenson
+2469,Michael Taylor,Female,25,History,65.75,2025-04-30,Combstown,Year 4,Reed-Farmer
+5231,Sarah Vega,Female,19,History,61.55,2024-11-07,Lake Seth,Year 1,"Rodriguez, Rice and Obrien"
+2266,David Friedman,Male,21,Math,94.95,2024-12-22,South Dannyville,Year 1,Yang-Vazquez
+4686,Juan Miller,Male,18,English,63.81,2025-05-09,South Phillip,Year 1,Carr-Mooney
+3304,Danielle Cooper,Male,23,English,43.87,2025-04-29,Nathanmouth,Year 2,"Robinson, Maddox and Lopez"
+7914,Stacy Ford,Female,22,Computer,80.27,2025-08-08,South Gilbertmouth,Year 3,Mullins-Morris
+8090,Derrick Woodward,Female,23,English,86.36,2025-09-24,Lake Phyllismouth,Year 3,Cross-Fox
+3445,Matthew Garcia,Male,23,Science,92.5,2025-01-17,Youngchester,Year 3,"Arnold, Garcia and Thompson"
+3001,Meghan Ferguson,Female,18,English,44.35,2024-12-08,New Kevin,Year 2,"Johnson, Wagner and Nielsen"
+9488,Patty Crawford,Female,21,Computer,45.1,2025-09-29,Gonzalezfurt,Year 3,Hernandez-Thompson
+8494,Samantha Webb,Male,24,English,93.11,2025-06-28,Lawrenceport,Year 2,Young-Brown
+5324,Jodi Neal,Female,19,Science,40.51,2025-06-28,Howardstad,Year 2,Salas Inc
+3877,Andrew Lee,Male,23,History,42.41,2025-08-22,New Tonistad,Year 4,"Gonzalez, Buchanan and Conley"
+5737,Lydia Strong,Female,24,English,47.97,2025-06-15,New Brianna,Year 1,Lee-Harrison
+8649,Gary Hebert,Male,22,English,65.37,2025-01-22,Nathanton,Year 4,Archer-Sullivan
+6096,Shawn Cole,Male,20,Science,42.53,2025-06-22,Johnchester,Year 4,Fleming PLC
+9296,Benjamin Jacobs,Male,18,English,53.66,2025-02-23,Katelynmouth,Year 1,"Jackson, Nelson and Harrington"
+6708,Brendan Ward,Female,25,Computer,50.83,2025-09-17,Murphyberg,Year 4,Wilson Ltd
+5806,Kaitlin Miller,Male,22,English,78.17,2025-01-21,Lake Sarah,Year 2,"Jacobs, Garrison and Anderson"
+7892,Catherine White,Female,23,English,48.75,2025-07-31,Hubbardmouth,Year 2,Morris and Sons
+2783,Sally Solis,Female,25,Math,77.22,2025-03-14,Juliehaven,Year 3,Pratt-Schultz
+8906,Dawn Anderson,Male,23,History,60.84,2025-01-05,Ernestport,Year 3,Bender-Williams
+2630,Laura Ramsey,Female,22,History,80.54,2025-06-11,Lake Lesliefurt,Year 4,Hernandez-Ball
+2446,Ronald Reed,Male,19,Science,71.34,2025-07-19,Stephensonfurt,Year 4,"Stewart, Hicks and Miller"
+6882,Miranda Walker,Female,18,Science,81.6,2025-08-29,Shannonchester,Year 3,Thomas-Turner
+5465,Anita Rose,Female,19,Computer,55.85,2025-02-28,East Kaylaland,Year 4,Chen-Foster
+3467,Douglas Jackson,Female,25,English,59.16,2025-09-06,North Mario,Year 2,"King, Hobbs and Jimenez"
+7628,Mark Castillo,Male,19,History,83.92,2025-02-11,Shannonshire,Year 4,Anderson-Lam
+2761,Johnny Aguilar,Female,22,Computer,81.74,2024-12-06,New Christopherport,Year 1,Miller-Salazar
+7442,Christina Watkins,Male,25,English,84.05,2025-05-05,North Sarah,Year 4,Gordon Group
+1545,Abigail Vargas,Male,19,Computer,53.3,2025-03-02,Gillespieshire,Year 3,Robles-Benson
+8313,Juan Hawkins,Female,18,History,65.36,2025-10-15,Lake Jessicatown,Year 1,Brandt Ltd
+6627,Shawna Curtis,Male,24,Math,55.39,2025-09-01,Maryville,Year 2,Howell LLC
+8572,Bobby Waters,Female,25,Science,55.26,2025-01-24,Martinshire,Year 1,"Perez, Swanson and Miller"
+9851,Vickie Johnson,Male,22,Computer,55.12,2025-03-30,Bushchester,Year 3,Merritt-Bailey
+4492,Ronald Mccann,Male,20,History,91.55,2025-03-16,New Rachel,Year 2,"Herrera, Reed and Owens"
+9263,Jason Gonzales,Female,18,Computer,86.48,2025-08-09,New Christopher,Year 1,Miller Ltd
+1127,Casey Frank,Male,23,History,86.31,2025-06-02,North Kevin,Year 1,"Jones, Carson and Roberts"
+6019,John Diaz,Male,22,History,68.55,2024-12-06,Rogersberg,Year 3,Williams-Perez
+1143,Scott Russell,Male,24,English,47.31,2025-02-19,New Hannahfort,Year 3,Harris Group
+9143,Robert Bates,Male,23,Computer,88.21,2025-07-30,Port James,Year 4,"Wright, Hicks and Hall"
+3101,Bonnie Cruz,Male,22,Science,61.42,2025-01-16,Michelleshire,Year 1,Clements Group
+8772,Dr. Erik Gomez,Female,23,Math,75.12,2025-10-17,Katherinemouth,Year 4,Phelps-Ortiz
+2198,Keith Marquez,Female,24,Science,64.89,2025-04-20,West Angela,Year 1,Aguilar-Sullivan
+8716,Alicia Lucas,Male,22,Math,82.22,2025-03-22,Lake Samuel,Year 2,"Brown, Kline and Schroeder"
+9924,Sherri Williamson,Female,25,English,40.81,2025-04-03,Arnoldstad,Year 3,"Oliver, Taylor and Lee"
+7636,Wendy Stuart,Female,20,Science,75.25,2025-03-07,Melissachester,Year 1,Wang-Moore
+7075,Jermaine Lewis,Female,20,History,81.26,2025-07-30,Carlsonmouth,Year 1,"Garrett, Baker and Gardner"
+9013,Anthony Davenport,Male,22,English,47.55,2025-02-11,Washingtonfort,Year 1,"Lewis, Scott and Petty"
+3042,Alicia Johnson,Female,24,Math,94.11,2025-03-28,Lake Katherine,Year 4,"Lewis, Fischer and Thompson"
+7712,Gary Scott,Male,24,Computer,89.64,2025-02-11,East Jenniferberg,Year 4,Taylor Inc
+2718,William Wheeler,Female,23,English,55.95,2025-03-17,East Andrew,Year 4,May-Page
+8712,Christopher Young,Female,23,Computer,50.77,2025-06-21,Webbview,Year 2,"Williams, Johnson and Thomas"
+3947,Andrea Carson,Female,24,History,79.61,2025-01-08,New Penny,Year 1,"Brown, Dougherty and Johnson"
+9996,Jamie Hall,Male,19,Science,89.11,2025-09-30,North Annettechester,Year 1,"Hughes, Alvarez and Thomas"
+8605,Alejandro Armstrong,Female,22,Computer,50.62,2025-05-23,Robertburgh,Year 1,Coleman-Nelson
+6058,Jeanne Curtis,Male,18,Computer,64.59,2025-05-28,North Rachelburgh,Year 1,Hernandez-Robinson
+9455,Amanda Rowe,Male,18,English,61.74,2024-12-07,Port Kevin,Year 2,Stein Group
+1318,Brandy Adams,Female,19,Computer,81.42,2025-07-13,Tinaview,Year 3,Thomas Group
+9861,Christopher Owens,Female,19,Computer,67.26,2025-07-22,Patriciaborough,Year 1,Love and Sons
+5047,Lindsay Welch,Female,21,English,94.15,2025-04-13,Turnermouth,Year 4,Davis-Hurst
+4288,Theresa Johnson,Male,20,History,89.4,2025-03-11,Paulfort,Year 3,"Mcdonald, Carr and Murray"
+2695,Jennifer Frost,Female,24,Math,76.05,2024-10-28,Lake Roberto,Year 2,Perry PLC
+3033,Philip Acevedo,Male,25,Math,98.06,2025-10-17,Jeanettefurt,Year 1,"Jensen, Curtis and Lester"
+7645,Daniel James,Female,20,Science,88.59,2025-09-18,North Meganstad,Year 1,"Shields, Miller and Bennett"
+6007,Elizabeth Travis,Female,20,Computer,70.18,2025-01-24,West Justinberg,Year 1,"Stevens, Spears and Cox"
+2815,Sandra Higgins,Female,25,English,60.31,2024-11-30,Maciaschester,Year 4,Roberts-Friedman
+4966,Nicholas Hall,Female,25,History,67.23,2025-08-18,New Christopher,Year 1,"Horton, Stewart and Moss"
+8628,Robert Sanchez,Male,23,Computer,42.48,2024-10-31,Georgebury,Year 2,"Powell, Blackwell and Fleming"
+1619,Sara Hurley,Female,19,English,80.61,2024-11-02,North Timothy,Year 3,Smith and Sons
+5464,Julie Lee,Male,22,Math,99.32,2025-09-25,Perezton,Year 4,Leblanc PLC
+4671,Kayla Anderson,Male,20,Math,79.89,2025-04-10,Wendyside,Year 1,"Hubbard, Esparza and Haynes"
+8011,Mark Brooks,Female,23,Science,61.65,2025-02-28,East Kaitlinborough,Year 2,"Schwartz, Myers and Davidson"
+8699,Pamela Richardson,Female,21,Science,98.59,2025-07-22,Briantown,Year 3,"Mcdowell, Lopez and Edwards"
+1403,Nathan Hernandez,Male,24,History,75.04,2025-07-06,Ibarraburgh,Year 1,Wang-Soto
+2094,Christopher Mitchell,Female,25,English,67.99,2025-09-24,New Kevin,Year 4,Tucker LLC
+5451,Richard Schmidt,Male,19,Math,51.68,2025-10-05,Lake Zachary,Year 4,"Knapp, Lee and Elliott"
+4115,Kevin Ochoa,Male,18,Computer,99.94,2025-08-28,Heatherbury,Year 4,George LLC
+6046,Melissa Lewis,Male,19,History,64.04,2025-04-14,North Raymondville,Year 1,"Davis, Richardson and Fitzgerald"
+1812,Paul Graham,Male,21,Science,59.38,2025-08-24,New Charlesstad,Year 3,Collins LLC
+5272,Regina Pitts,Female,23,Science,47.26,2025-07-05,Ruizfort,Year 1,"Hart, Wilson and Church"
+4037,Robert Espinoza,Female,25,History,93.3,2025-06-22,Port Brandon,Year 2,"Walker, Evans and Cohen"
+2787,Allison Lucas,Male,23,English,88.26,2025-06-30,South Courtneyshire,Year 3,Yates Inc
+9658,Scott White,Female,23,Math,77.36,2025-01-08,West Brettfurt,Year 3,Ballard PLC
+2028,Brandon Hernandez,Female,20,History,94.53,2025-04-27,Lake Donald,Year 4,"Guerrero, Ramsey and Diaz"
+4892,Keith Solis,Male,21,Science,43.84,2025-09-01,Grossland,Year 2,Reed-Rhodes
+4144,Carl Lee,Female,21,English,55.73,2025-05-05,Nataliebury,Year 4,Hall LLC
+5961,Jason Murphy,Female,19,Computer,93.22,2025-03-28,Wilsonville,Year 4,White-Sanchez
+2544,Leon Santos,Male,20,English,44.94,2025-01-18,Davischester,Year 2,"Pacheco, Zamora and Hahn"
+7976,Stephen Hamilton,Female,20,History,46.68,2025-06-28,North Joshuahaven,Year 2,Scott Inc
+6599,Brandon Quinn,Male,24,English,93.09,2024-12-27,East Nicolehaven,Year 1,"Cruz, Archer and Roberts"
+9685,Jacob Reese,Female,20,History,47.24,2024-10-21,Fosterstad,Year 2,Mccoy-Barnes
+4871,Melinda Washington,Female,18,Math,49.28,2025-01-24,Walkerport,Year 2,"Knight, Young and Berger"
+1346,Jill Wong,Female,18,Math,52.97,2024-11-22,Hernandezbury,Year 1,Montes-Moon
+5455,Anthony Brown,Female,22,English,97.05,2025-01-06,Karentown,Year 4,Shepherd-Lopez
+8990,Dr. Katherine Cross,Male,23,Math,45.86,2025-08-03,West April,Year 4,Fields Inc
+4011,Ashley Stout,Female,21,Math,85.94,2025-02-25,West Sandra,Year 2,Frank Ltd
+4191,Gregory Jones,Male,24,English,94.65,2024-12-20,South Randall,Year 4,Miller-Ford
+5012,Kenneth Dunn,Female,19,English,77.35,2025-02-07,North Patricia,Year 3,Choi PLC
+8982,Brandon Newton,Female,24,Math,69.02,2024-10-22,East Amanda,Year 3,Boone Inc
+3723,Stephanie Anderson,Female,19,Computer,69.56,2025-09-05,East Lorraine,Year 1,Holden and Sons
+5273,Daniel Fitzgerald,Male,22,Computer,89.39,2025-01-12,Arnoldport,Year 3,"Jackson, Cantu and Atkinson"
+3165,Kenneth Dunn,Female,23,Computer,72.85,2025-05-07,Cobbbury,Year 3,"Mendez, Johnson and Shepherd"
+2669,Zachary Baker,Female,25,Computer,86.31,2025-01-04,Alishaview,Year 3,Martin Group
+4249,Heather Keith,Female,18,Computer,91.84,2025-04-21,Johnberg,Year 1,"Daniel, Wiley and Hansen"
+9326,Thomas Stone,Male,19,Math,44.08,2025-01-26,North Meganchester,Year 1,"Hoffman, Mcdaniel and Salinas"
+8747,Julie Henry,Male,23,English,73.64,2025-03-08,East Scott,Year 3,Benson-Medina
+7434,Daniel Ewing,Female,21,Computer,55.66,2025-10-04,South Megan,Year 4,"Bell, Randall and Gonzales"
+2270,Linda Schwartz,Female,18,Science,66.18,2025-09-29,East Stanleyberg,Year 2,"Todd, Brown and Robinson"
+8326,Dawn Spencer,Female,20,Math,43.3,2025-02-14,North Kathleenside,Year 1,"Smith, Camacho and Kent"
+8302,Katherine Wise,Female,19,History,96.6,2025-02-18,Lake Melinda,Year 1,Fuller-Christensen
+4436,Amy Villarreal,Male,23,History,65.81,2025-07-22,Wrightton,Year 4,"Wright, Williams and Mitchell"
+3854,Jennifer Brown,Male,19,English,42.07,2025-01-15,Lake Drew,Year 4,Jordan PLC
+2931,Travis Morales,Female,18,English,46.28,2025-06-09,Lutzland,Year 1,"Black, Rodgers and Miller"
+4618,Jamie Stone,Male,21,Computer,47.14,2025-07-06,West Kristinport,Year 2,Perry PLC
+6297,James Thompson,Female,21,Computer,59.76,2025-01-12,Carrollchester,Year 1,Webb Ltd
+8525,Alexis Hodge,Female,23,History,64.91,2025-01-21,North Marytown,Year 2,Yoder Inc
+5991,Rhonda Harris,Female,25,English,75.85,2024-11-09,Sanchezchester,Year 1,"White, Garrett and Rowland"
+4477,James Quinn,Female,23,History,92.37,2025-07-06,Mendozaside,Year 3,"Sanchez, Rogers and Wood"
+3919,Victoria Lee,Female,24,Computer,74.99,2025-03-16,New Daniel,Year 3,Riley Group
+5441,Richard Smith,Female,18,Math,78.27,2025-06-25,Jasonberg,Year 3,Gallegos-Williams
+2950,Gary Phillips,Male,23,History,97.45,2025-04-26,Dayburgh,Year 4,Ellis and Sons
+3465,Jennifer Cole,Female,22,Math,65.76,2024-11-10,Vincentview,Year 2,Conrad PLC
+1687,Jennifer Robinson,Female,18,English,72.78,2025-06-26,Oliviaport,Year 4,Myers-Duffy
+2207,Marie Roberts,Female,18,Math,83.51,2025-03-31,Port Joseshire,Year 1,Stevenson Inc
+5279,Steven Davies,Female,19,Math,95.55,2025-04-08,West Gabrielfurt,Year 4,"Weiss, Wilcox and Kelley"
+4291,Ronald Calderon,Female,24,Computer,56.9,2025-03-17,South Marisastad,Year 1,Garrett-Nichols
+5314,Alexander Carlson,Female,21,Science,62.17,2025-01-06,Amberview,Year 2,Mooney-Beard
+1269,Anthony Brown PhD,Female,23,Math,40.66,2024-11-06,Rebeccabury,Year 4,Freeman and Sons
+2580,Christian Miller,Female,20,History,83.02,2024-12-11,New Kyleport,Year 1,"Miller, Collins and Taylor"
+7504,Jonathan Thomas,Female,18,History,45.45,2025-04-24,West Laurenhaven,Year 1,Torres-Morrow
+4465,Craig Bush,Female,25,English,72.34,2024-10-22,South Courtneybury,Year 1,"Ross, Allison and Manning"
+7821,Andrew Garcia,Male,24,Math,95.45,2025-04-08,Sloanchester,Year 4,"Lewis, Wilson and Clark"
+9091,Christopher Oconnor,Male,22,History,79.31,2025-04-27,Montgomeryfurt,Year 1,Gutierrez-Flores
+4565,Lisa Olson,Female,18,Computer,70.98,2025-02-25,Lake Dylan,Year 4,Warren-Simon
+4991,Melissa Conley,Female,19,Math,81.24,2025-10-20,South Stevenstad,Year 3,"Ballard, Thompson and Benson"
+5529,Megan Barry,Female,24,History,41.72,2025-03-21,North Mindyhaven,Year 2,"Mcdonald, Duncan and Glass"
+8286,Dustin Williams,Female,21,Science,70.51,2025-09-24,Rossside,Year 2,"Perez, Padilla and Phillips"
+4307,Lori Flores,Male,20,Math,71.79,2024-11-15,Melindahaven,Year 2,Moore and Sons
+6983,Corey White,Female,20,Computer,46.19,2024-11-13,Willisville,Year 2,Anderson-Ali
+1551,Taylor Johnson,Male,18,Computer,41.25,2025-09-18,Lake Thomastown,Year 1,"Wilkins, Moore and Young"
+3490,Christopher Chan,Female,20,Computer,68.07,2025-08-29,New Karen,Year 4,"Miller, Burnett and Wells"
+5515,Robert Medina,Female,24,Computer,59.98,2025-04-22,Ramirezfurt,Year 1,Christensen-Fox
+2339,Amanda Foster,Female,21,Computer,90.74,2025-06-21,Matthewbury,Year 3,Mason-Evans
+4066,Dwayne Rollins,Male,21,English,93.28,2025-10-09,Sanchezview,Year 1,Salinas-Romero
+3299,Michelle Jones,Female,21,Science,75.78,2025-07-27,Reyesshire,Year 3,Parsons-Keller
+4373,Elizabeth Lucas,Female,18,History,71.2,2025-01-23,North Christineport,Year 3,Huerta-Davis
+5258,Samantha Walker,Male,21,Science,49.8,2025-07-07,Lake Judyview,Year 1,Romero-Ray
+3400,Pamela Brown,Female,22,Computer,95.72,2025-02-19,Adamsshire,Year 1,"Ho, Ochoa and Nguyen"
+9697,Gregory Richards,Male,23,History,62.43,2024-11-02,South Annashire,Year 4,King Inc
+5637,Michael Rodriguez,Male,23,History,41.63,2024-10-28,North Paul,Year 4,"Hopkins, Parsons and Walker"
+3914,Denise Jones,Male,19,History,52.36,2025-06-27,Jessicaville,Year 2,Richards-Mack
+9226,Tonya Lee,Male,19,History,85.4,2025-01-24,New Linda,Year 4,Maldonado Inc
+7798,Susan Rogers,Female,21,Computer,65.02,2024-12-21,Wilsonmouth,Year 3,Roberts-Underwood
+1809,Charlene Diaz,Male,24,Computer,97.35,2025-03-18,East Eric,Year 2,Lopez Ltd
+5720,Matthew Hill,Male,21,Science,51.99,2025-04-04,Harrisville,Year 3,Matthews Inc
+5880,Ashley Cisneros,Female,19,History,43.58,2025-01-19,West Max,Year 2,"Rodriguez, Black and Decker"
+3065,Lance Flores,Female,21,Science,76.3,2025-05-14,Megantown,Year 1,Graham Group
+5879,Joel Robinson,Male,24,History,59.17,2024-11-06,Hancockfort,Year 3,Henderson-Mills
+7156,Natalie Delgado,Female,20,English,89.5,2024-10-30,East Jenniferhaven,Year 3,Roach-Cantu
+6546,Lisa Lindsey,Male,24,Math,73.04,2025-04-20,North Jacqueline,Year 4,Baker PLC
+2609,Vicki Campbell,Male,18,Computer,89.15,2025-04-17,Lunamouth,Year 4,"Thomas, Roberts and Martinez"
+8427,Michael Frye,Female,18,Computer,90.96,2025-02-27,Danielleview,Year 2,Barker Inc
+5023,Stephanie Mendoza,Male,19,Computer,77.5,2025-07-01,Ashleeside,Year 4,Matthews Ltd
+5799,Taylor Gilbert,Female,23,History,72.05,2025-07-01,Port Kathryn,Year 3,"Gomez, Orr and Tran"
+9709,Kenneth Rogers,Female,22,Computer,82.12,2024-11-10,Martinberg,Year 3,Reynolds PLC
+4427,Mary Harvey,Female,24,English,45.53,2025-07-20,Masonshire,Year 1,"Jacobson, Foster and Bell"
+6471,Gerald Walker,Male,24,Math,73.55,2025-03-04,Port Amber,Year 3,Neal Ltd
+6669,David Evans,Female,21,Science,85.37,2025-02-08,West Devin,Year 3,"Smith, Reid and Castro"
+5428,Donna May PhD,Male,23,English,51.96,2024-11-14,North Aliciaborough,Year 2,Hoffman Ltd
+7902,Daniel Montoya,Male,20,English,48.16,2025-01-31,Fletchertown,Year 2,"Ross, Trujillo and Stevenson"
+9164,John Powers,Male,22,Computer,54.43,2024-12-31,South Allisontown,Year 2,Holder-Hammond
+4173,Melissa Nelson,Male,18,Computer,90.24,2025-06-04,South Moniqueshire,Year 3,Lewis LLC
+8424,Jonathan Morgan,Female,18,English,58.71,2025-06-10,Hawkinstown,Year 2,Avila Ltd
+6574,Gregory Cohen,Male,24,Computer,68.48,2024-12-09,South Janet,Year 2,"Morales, Harrison and Henderson"
+6023,Gabriel Fischer,Male,20,History,86.86,2025-01-28,South Michaelchester,Year 2,Hernandez and Sons
+9409,Nancy Clark,Female,24,Science,98.84,2025-06-04,West Michaelland,Year 4,Glenn LLC
+1040,Laura Harris,Female,19,Science,66.43,2024-11-28,Richardsonview,Year 3,"Bean, French and Ross"
+7429,Patrick Mckenzie,Female,25,Science,89.79,2025-03-08,Lake Destiny,Year 1,Jenkins PLC
+6093,Maria Long,Male,24,English,41.13,2025-01-31,Lake Joanna,Year 4,"Jackson, Allen and Faulkner"
+5461,Kimberly Estrada,Female,23,Computer,58.67,2025-09-28,Port Leahfort,Year 2,Conner-Meyer
+6879,Deborah Watson,Male,25,Math,72.66,2025-09-11,Martinezton,Year 1,Ross-Casey
+4172,Christina Rios,Female,21,Science,48.05,2025-07-14,Hannahborough,Year 1,"Huffman, Mullins and Douglas"
+5468,Sabrina Miller,Male,20,Science,43.96,2025-06-27,Port Bethany,Year 3,"Rodriguez, Anderson and Hardy"
+6188,Robert Sanders,Female,22,English,80.18,2024-11-24,Mcknightton,Year 3,Wilson PLC
+8625,Susan Kelley,Female,22,Computer,40.17,2024-11-17,East Christopherville,Year 4,Peters and Sons
+4314,Catherine Wu,Female,24,History,85.69,2025-06-24,Hernandezside,Year 4,Murray PLC
+2740,Brittney Smith,Male,23,English,45.89,2025-01-12,East Christopherburgh,Year 4,Gibbs-Garcia
+7526,Kristen Potter,Female,25,Science,88.68,2025-08-22,Robinsonberg,Year 2,"Richardson, Nguyen and Clark"
+8622,Dennis Murray,Female,19,Math,67.39,2025-03-05,Andersenside,Year 3,Morrow-Crawford
+4042,Cody Armstrong,Female,18,English,82.42,2024-12-06,Port Alexander,Year 3,Hernandez Ltd
+4382,Larry Smith,Male,18,History,91.76,2024-11-24,Erinborough,Year 1,Shaffer and Sons
+2838,Betty Hayes,Female,22,Math,42.79,2024-11-20,East Traviston,Year 3,"Walker, Garcia and Lopez"
+2936,Robert Pugh,Female,22,Math,55.32,2025-09-03,Lake Hannahmouth,Year 3,"Parker, Chavez and Jackson"
+7553,Alan Hall,Female,23,Math,49.74,2024-12-24,Carrollhaven,Year 2,"Martinez, Garcia and Weber"
+1247,Jeffery Baker,Male,21,Science,62.0,2025-02-12,North Alexander,Year 3,Watson-Long
+1769,Kaitlin Dunn,Female,24,Science,92.73,2025-07-09,Lake Carrieshire,Year 3,Thompson PLC
+4761,Courtney King,Male,23,Computer,72.03,2025-03-04,Beasleyshire,Year 1,Lopez Group
+4178,Patricia Ryan,Male,25,Science,71.33,2025-03-21,Matthewport,Year 4,Mcguire LLC
+4385,Mr. Zachary Johnson,Female,24,English,43.46,2025-02-09,Suttonmouth,Year 3,Proctor Ltd
+5735,Taylor Cooper,Female,22,English,83.67,2024-12-18,South Javiershire,Year 1,Carlson PLC
+3381,Sharon Reed,Female,18,Science,59.27,2024-11-16,Allisonview,Year 1,"Alexander, Gutierrez and Zuniga"
+7147,Kimberly Wood,Male,19,Math,44.21,2025-02-16,Lake Jasontown,Year 4,Perez-Johnson
+6349,Joseph Solomon,Male,25,Science,67.05,2025-05-19,New Ashleyton,Year 3,Peterson-Jones
+6886,Jennifer Pruitt,Male,18,Science,81.43,2025-04-04,Chadmouth,Year 2,Carr and Sons
+5867,Carlos Brown,Female,24,History,82.48,2024-11-01,North Meganfurt,Year 2,"Woodard, Rivers and Blair"
+9770,Colleen Perez,Female,21,Science,74.81,2025-05-19,Brownstad,Year 1,"Walls, Carson and Rodriguez"
+4843,Lori Silva,Male,21,Science,93.02,2025-01-26,Edwardview,Year 2,Bruce-Ruiz
+6968,Bruce Davis,Male,18,History,79.87,2025-04-19,Mckayton,Year 3,Snyder Ltd
+5260,Kayla Bailey,Male,23,Computer,75.43,2024-11-21,Lake Melissaland,Year 2,"Anderson, Anderson and Hunt"
+2922,Ralph Wolfe,Male,18,English,59.54,2025-04-07,South Seth,Year 4,Marshall Group
+1969,Ian Allen,Female,20,Science,55.94,2024-11-24,Bellfurt,Year 1,"Smith, Cox and Richardson"
+5915,Casey Solomon,Male,22,History,41.54,2024-12-06,Josephside,Year 2,"Carter, Klein and Durham"
+6783,Kevin Jacobs,Female,24,History,93.37,2025-06-14,Mitchellborough,Year 2,"Dennis, Weaver and Lee"
+4817,Veronica Garcia,Male,23,English,73.81,2025-05-01,Tracyport,Year 2,"Harris, Salazar and Yang"
+7660,Cheyenne Duncan,Female,22,Math,43.71,2024-10-28,New Brian,Year 3,Evans Ltd
+1291,Michael Washington,Male,23,Computer,77.77,2025-01-14,Lake David,Year 2,Nunez-Hayden
+3842,Mrs. Brittany Rangel MD,Male,20,English,84.63,2025-09-14,Sotohaven,Year 4,Higgins PLC
+6080,Anna Baker,Female,25,English,85.53,2024-12-05,South Mollyland,Year 2,Snyder PLC
+5960,Brenda Cruz,Male,25,History,73.39,2025-05-24,Eugeneland,Year 2,"Walker, Johnson and Nguyen"
+6095,Michele Miller,Female,24,English,69.13,2025-07-02,Mendezside,Year 2,Gross and Sons
+6986,James Howard,Female,22,History,75.48,2025-02-23,West Mariashire,Year 2,"Page, Smith and Rivera"
+2184,Patricia Stevens,Male,18,Computer,97.09,2024-10-30,Johnstonmouth,Year 3,Garcia-Graham
+2418,Mrs. Claire Price,Female,21,Science,49.72,2025-05-17,Kingborough,Year 3,Stewart-Donaldson
+6940,Robert Hill,Male,20,History,95.18,2025-04-12,Richardbury,Year 2,"Bowman, Larson and Martin"
+1022,Tina Russell,Male,21,History,83.13,2025-10-19,Millerside,Year 3,"Roberts, Warner and Curtis"
+8707,Lindsay Powell,Female,23,English,84.18,2025-08-31,Ryanville,Year 2,"Short, Harrison and Campbell"
+6305,Alexander Hubbard,Male,22,History,67.28,2025-02-06,Amandaport,Year 2,Wolfe-Smith
+7129,Sarah Chen,Female,24,History,74.72,2025-08-17,Lake Sabrina,Year 4,"Gallagher, Murphy and Hall"
+8204,Charles King,Male,20,History,53.28,2025-03-23,West Markberg,Year 2,Jones PLC
+6610,Maria Gregory,Female,22,Math,55.75,2024-11-12,East Stacyside,Year 4,Adams-Martin
+3499,Michael Lane,Male,20,Science,88.19,2025-05-31,Sarahbury,Year 3,Juarez Inc
+9152,Ashley Black,Female,25,Science,67.84,2025-10-20,Elizabethfort,Year 4,Graves Group
+9562,John Mcdaniel,Male,18,English,59.1,2025-03-14,Lake Karen,Year 4,"Jones, Keith and Jones"
+9778,Angel Price,Female,23,Computer,66.42,2025-03-20,Larryside,Year 3,Cox LLC
+8104,Christopher Bowman,Male,23,History,91.4,2024-11-04,North Zacharyfurt,Year 4,White-Anderson
+7733,Alexis Levine,Male,18,Science,77.82,2025-10-03,Kellystad,Year 3,"Benson, Fry and Moss"
+5019,Traci Porter,Female,18,English,96.65,2025-01-11,Dominguezmouth,Year 4,"Branch, Hensley and Harrison"
+7966,Seth Houston,Male,20,Computer,57.7,2024-10-28,Port Edwardtown,Year 2,Colon-Anderson
+9408,Gabrielle Long,Male,23,English,66.2,2025-02-20,Port Crystalchester,Year 2,"Hill, Burke and Burke"
+5361,James White,Female,25,Computer,43.6,2025-03-22,Garciaborough,Year 3,Powers-Hernandez
+9055,Andrea Green,Female,20,English,61.32,2025-07-21,East Jamesland,Year 2,"Santiago, Mccoy and Mcdaniel"
+1676,Rodney Monroe,Male,25,Science,65.08,2025-09-22,Robinsonville,Year 2,Tanner Ltd
+4446,Jonathan Alvarez,Female,22,Math,87.81,2025-07-08,Emilyview,Year 4,Hart Inc
+6255,Patrick Butler,Female,24,Math,61.09,2025-03-08,West Sarah,Year 2,Jones Ltd
+2153,Christina Smith,Male,24,Math,81.3,2025-08-10,Schwartzchester,Year 3,Cole-Hernandez
+2887,Dana Huerta,Male,25,English,89.9,2025-02-21,Lake Robert,Year 4,Fields Group
+1973,Paul Williams,Male,25,Science,77.78,2025-01-28,North Veronica,Year 3,Obrien-Farrell
+6917,Melanie Park,Female,22,English,65.41,2024-10-30,Jonathanchester,Year 1,Miller Group
+5805,Corey Li,Male,24,Math,56.47,2025-01-06,Lake Tonyaport,Year 3,Snyder LLC
+7295,John House,Female,25,Math,50.44,2025-04-15,Joshualand,Year 3,Barber and Sons
+2457,Jeffrey Wells,Male,18,History,61.05,2025-05-13,East Nathan,Year 2,"Fisher, Oliver and Smith"
+9266,Calvin Wilkinson,Male,20,Math,79.17,2024-12-24,Gonzalezport,Year 2,"Johnson, Hudson and Padilla"
+7261,Kimberly Thomas,Male,19,Computer,85.13,2024-12-02,Wilsontown,Year 1,Ramos-Miller
+1008,Angela Moyer,Male,21,Computer,62.52,2025-06-01,East Leahport,Year 4,Mckay Inc
+5232,Rachel Lyons,Male,23,English,85.12,2025-06-18,Lake Julie,Year 1,"Terry, Norris and Anderson"
+2349,Joseph Boyd,Male,20,Science,55.04,2025-03-14,Lake Michaelberg,Year 3,Key Ltd
+9354,Shannon Grant,Female,19,Computer,73.74,2025-02-08,West Paul,Year 4,Hayes-White
+1947,Tammy Patton,Male,20,History,84.32,2025-10-15,Davishaven,Year 3,Mills Inc
+2832,Renee Johnson,Male,21,Math,71.14,2024-10-21,East Michaelbury,Year 1,"Moore, Fernandez and Silva"
+2273,Jennifer Anderson,Female,22,Computer,95.23,2025-04-27,West Jillstad,Year 3,"Lopez, Lee and Robinson"
+9119,James Sandoval,Male,24,Science,59.56,2025-05-25,Michaeltown,Year 1,Harper-Lee
+2584,Kelly Schaefer,Male,20,History,71.32,2025-08-14,Port Jerryfort,Year 2,Ochoa Ltd
+1558,Paula Maynard,Male,21,Math,88.0,2025-09-20,New Jasonshire,Year 1,"Sanders, Gutierrez and Leblanc"
+7260,Dylan Williams,Female,25,Math,58.05,2024-11-14,Ramirezmouth,Year 1,"Henderson, Lara and Prince"
+9073,Jim Duncan,Female,18,History,83.21,2025-04-29,Stewartstad,Year 3,Walter-Johnson
+2459,Aaron Martin,Male,21,History,94.73,2024-11-19,Sarahchester,Year 2,Perry-May
+2707,Lawrence Mitchell,Male,24,History,44.33,2025-09-09,South Mary,Year 1,"Adams, Chan and Mcknight"
+4788,David Harding,Female,25,English,46.27,2024-12-01,Dodsonborough,Year 3,"Warren, Alvarado and Schmidt"
+8154,Nicole Williams,Male,21,Science,65.76,2025-03-04,West Maryburgh,Year 4,Wade Ltd
+2941,Samantha Powers,Male,20,Science,52.08,2024-12-05,Taylormouth,Year 2,Montgomery-Fields
+1820,Kerry Rosario,Male,20,English,82.32,2025-07-05,Erikview,Year 2,"Davis, Costa and Henry"
+7775,Whitney Johnson,Male,24,Science,92.88,2024-10-24,Port Davidmouth,Year 4,Brown-Landry
+2387,Stephanie Scott,Male,25,History,66.88,2025-07-02,Singhstad,Year 3,Chandler LLC
+8447,Adrian Richardson,Male,23,Math,53.11,2025-07-03,Lake Danielside,Year 2,"Norton, Davis and Walters"
+8442,John Suarez,Female,23,Math,50.51,2024-10-24,Maxwellchester,Year 2,"Williams, Stanley and Chavez"
+1805,Victor Abbott,Male,18,Computer,94.34,2024-11-29,South Jillianview,Year 2,Torres-Lee
+5620,Michele Brandt,Male,18,Math,78.66,2024-11-18,West Marymouth,Year 1,"Schaefer, Rivera and Alvarez"
+2753,Emma Kirk,Male,21,Computer,86.08,2024-11-30,East Jennifer,Year 2,Barber Ltd
+8509,Mark Moore,Female,22,Science,43.41,2024-12-23,Jennifertown,Year 3,Suarez-Lewis
+6929,Jean Hancock,Female,25,Computer,70.21,2024-11-11,Grayhaven,Year 4,Davis Inc
+3838,Bobby Williamson,Female,23,English,89.89,2025-10-06,Lake Maryshire,Year 4,"White, Taylor and Nguyen"
+4689,Daniel Avila,Male,22,Computer,43.87,2025-06-09,Christinemouth,Year 1,Ward and Sons
+5425,Daniel Davidson,Male,24,English,50.99,2025-04-26,East Meagan,Year 4,"Richards, Graham and Rivera"
+9652,Morgan Wright,Female,19,History,60.93,2025-03-02,West Kellymouth,Year 2,Hull-Johnson
+4508,Sarah Tate MD,Male,19,Science,66.59,2025-08-10,Port Timothy,Year 1,"Holmes, Cowan and Klein"
+7730,Amy Moore,Male,21,English,78.9,2025-07-03,South Jonathan,Year 1,Osborne Group
+1446,Dawn Phillips,Male,22,Computer,43.33,2025-10-13,Port Kelseyville,Year 2,"Garcia, Newman and Cooper"
+4830,Bradley Jimenez,Female,19,Science,85.1,2025-06-19,South Eugenebury,Year 2,Davies and Sons
+9395,Jacob Jones,Male,21,Math,49.23,2025-05-07,Jacksonberg,Year 3,Lozano PLC
+2498,Angela Mueller,Female,20,History,66.05,2025-08-23,Allentown,Year 3,Duran-Brown
+7118,Kurt Cooper,Male,20,Computer,51.59,2025-08-30,Lake Rachel,Year 4,Hull Inc
+4578,Candice Lyons,Male,23,English,85.65,2025-03-10,East Paulfort,Year 1,"Cunningham, Marsh and Gray"
+1475,Mrs. Lauren Herrera,Female,20,Computer,55.76,2025-01-09,East Hollytown,Year 4,Payne Inc
+3177,Jody Dickerson,Female,22,Math,86.73,2024-11-18,Mariaborough,Year 1,Carlson-Becker
+1865,Steven Hernandez,Male,20,Science,80.92,2025-09-18,Lake Ryan,Year 1,Moore-Wilson
+6924,Amber Perez,Female,23,History,70.0,2025-01-30,New Arthurberg,Year 1,"Ortiz, Stevens and Barnes"
+1916,John Odonnell,Male,18,History,41.09,2024-11-30,Lake Michael,Year 1,Lin-Wood
+5415,James Castillo,Female,22,English,41.22,2025-04-15,Morrismouth,Year 3,Cunningham-Scott
+1633,Jessica Turner,Male,22,History,74.84,2025-03-13,South Tammyburgh,Year 2,Jennings-Johnson
+9732,Gregory Mckinney,Male,18,Math,93.69,2025-04-20,Port Kathy,Year 1,"Robinson, Robertson and Smith"
+4772,Anna Grant,Female,18,Computer,96.76,2025-04-07,Mayview,Year 4,"Smith, Little and Allen"
+4926,Michael Campbell,Female,21,English,95.76,2025-07-16,East Tyler,Year 4,"Smith, Petersen and Dyer"
+3133,Robert Freeman,Male,22,Computer,73.28,2025-03-09,Kerrland,Year 3,"Warren, Sanchez and Rose"
+5489,Sergio Curtis,Male,18,History,69.14,2025-01-18,Ricebury,Year 3,Fuentes-Hahn
+3676,Jose Thompson,Male,24,English,44.17,2025-06-13,South Melanie,Year 2,Harris-Smith
+2435,Garrett Lopez,Female,21,History,82.21,2025-09-26,South Christinefurt,Year 2,Mcmillan Inc
+7642,Kelly Gates,Male,20,English,49.63,2025-08-09,Ortegafort,Year 4,"Chavez, Michael and Young"
+1552,Micheal Madden,Female,20,History,90.62,2025-05-01,Port Martin,Year 2,Oconnor-Moss
+2448,Annette Dennis,Male,24,English,82.69,2025-04-03,Carlton,Year 4,Lewis and Sons
+7913,Robert Moore,Male,20,Computer,89.24,2024-12-05,Port Kimberly,Year 2,Carpenter LLC
+4570,Kurt Reed,Female,21,Computer,44.53,2025-04-26,West Kristen,Year 4,Keller Inc
+8706,Jamie Morrison,Male,18,Computer,57.97,2025-02-13,Johnstonbury,Year 4,Marsh-Edwards
+9427,Richard Hoffman,Male,22,History,56.17,2025-07-18,Port Lindseyberg,Year 4,"Paul, Davis and Barron"
+1358,Julie Dunn,Female,23,Math,74.18,2025-03-14,East Robert,Year 3,"Hernandez, Martin and Morris"
+9260,Sabrina Willis,Female,20,Computer,54.77,2024-11-05,Port Johnathanville,Year 3,Ortega-Thornton
+6892,Sabrina Elliott,Female,25,Science,93.84,2025-01-06,Codyshire,Year 3,"Aguilar, Lee and Perez"
+2360,Meagan Anderson,Female,21,Math,89.51,2025-10-16,South Sarahmouth,Year 2,Brewer-Watts
+3978,James Gutierrez,Male,20,English,96.2,2024-11-24,West Tashachester,Year 1,Campbell-Davis
+7027,Paul Crawford,Female,21,History,66.23,2025-10-02,Millerton,Year 1,Flores-Rogers
+5323,David Thomas,Male,24,Math,88.16,2025-07-11,Lake Courtney,Year 4,"Young, Tate and Gonzalez"
+1983,Christopher Acosta,Female,19,Math,88.58,2025-08-25,Doughertyshire,Year 4,Moore Ltd
+7857,Peter Griffin,Male,21,Math,88.97,2025-01-16,New Jamesland,Year 4,Carpenter-Gonzalez
+9729,Carol Thomas,Male,23,Science,84.93,2025-03-11,North Aprilfurt,Year 2,West Inc
+6770,Tammy Ellison,Female,22,Science,74.82,2025-04-02,Brianaton,Year 3,Miller PLC
+1125,George Hester,Female,24,History,82.65,2025-01-24,Hollyport,Year 2,Fisher Ltd
+5898,Brandon Johnson,Female,23,Science,51.03,2024-11-18,East Maria,Year 1,Shaw-Lopez
+2614,William Perkins,Female,18,Computer,68.82,2025-09-15,Andrewmouth,Year 4,Lyons-Owens
+8388,Michele Morales,Female,23,English,57.2,2024-12-31,South Justin,Year 3,"Johnson, Hall and Goodman"
+1780,Steven Nelson,Female,22,Math,87.95,2025-02-16,East Robinborough,Year 3,"Cooper, Mccarty and Payne"
+6211,Valerie Williams,Male,23,Math,55.02,2025-08-30,South Sharonview,Year 3,"Brown, Knapp and Allison"
+4013,Patricia Mitchell,Female,25,Science,67.3,2025-10-20,Boyerstad,Year 2,"Smith, Schmidt and Thornton"
+8781,Mrs. Phyllis Jimenez,Male,24,Computer,97.5,2025-03-26,New Douglas,Year 2,"Reilly, Tucker and Madden"
+3312,Kristi Hanson,Female,20,Computer,65.87,2025-01-23,Port David,Year 4,Gordon-White
+6802,Steve Sparks,Male,18,Math,87.84,2025-05-13,West Kathleen,Year 2,"Brown, Taylor and Burke"
+4482,Tammy Lopez,Female,22,Math,93.33,2025-07-28,Johnland,Year 2,Carey Inc
+1981,Jonathan Adams,Male,19,Computer,55.14,2025-07-16,Floresfort,Year 4,"Perez, Thomas and Lee"
+2053,Brandon Ayers,Female,19,Science,52.97,2024-11-12,South Stephanie,Year 2,"Michael, Dominguez and Wright"
+3969,Eileen Choi,Female,18,Math,78.71,2025-08-19,South Jerryport,Year 4,"Faulkner, Davis and Valdez"
+5270,Donald Saunders,Female,18,Science,85.95,2024-10-26,Justinmouth,Year 4,Harris-David
+2635,James Adams,Female,20,Science,50.88,2025-05-08,East Ian,Year 4,Perez-Wheeler
+5341,Nathan Sullivan,Male,21,Science,80.37,2024-12-19,New Aimee,Year 3,Simpson Ltd
+8555,Richard Moody,Female,25,History,76.8,2025-05-29,New William,Year 3,Gonzalez-Estes
+3040,Joshua Jones,Male,23,English,46.38,2025-05-15,Johnsonstad,Year 3,Wade-Chambers
+7370,Sabrina Sullivan,Female,25,English,48.92,2024-10-26,New Jacobfurt,Year 4,"Sims, Morrison and Hughes"
+8164,Jasmine Woods,Female,24,Computer,78.27,2025-09-27,West Jeffreyton,Year 1,Romero-Jordan
+5459,Veronica Stewart,Male,20,English,87.67,2025-08-04,West Alexander,Year 2,Davila Inc
+4324,Logan Yang,Female,20,Computer,58.01,2024-11-22,Jessicafurt,Year 4,Gray-Christensen
+5763,Dawn Turner,Female,20,Math,72.2,2025-10-09,Brianton,Year 1,"Woods, Dickerson and Jimenez"
+8662,Brian Johnson,Male,25,Science,73.19,2024-12-23,Thomasbury,Year 1,"Petersen, Torres and Chavez"
+8981,Christopher Dean,Male,18,Science,99.67,2025-03-01,Port Stephenborough,Year 2,Davis-Payne
+3672,William Scott,Male,19,Science,96.05,2025-06-21,Williamsview,Year 4,"Cook, Juarez and Davis"
+9426,Robert Brewer,Female,24,Math,49.88,2025-02-11,Peckport,Year 2,Smith Group
+4086,Shawn Garcia,Male,21,History,94.65,2025-10-16,Sandersberg,Year 4,Lawson Group
+1299,Devin Hall,Female,24,Math,65.3,2025-06-23,Wheelerville,Year 2,"Pruitt, Barnes and Andrews"
+5603,Lauren Mitchell,Male,22,Computer,52.38,2025-09-28,West Toni,Year 2,"Gomez, Mercado and Fuller"
+5172,Cindy Ramirez,Female,21,History,81.05,2025-06-22,East Steven,Year 2,Weeks-Mendoza
+1086,Nathan Ponce,Female,19,Computer,52.4,2024-11-09,West Stacy,Year 1,Price-Beasley
+1478,Taylor Smith,Male,24,English,62.21,2025-04-13,Joseville,Year 4,Anderson-Rivera
+1804,Mary Jimenez,Male,25,Science,60.81,2024-12-18,North Williamchester,Year 3,Hill-Dennis
+5037,Kevin Hudson,Male,25,Computer,41.25,2025-07-29,West Sarahville,Year 2,"Barton, Calderon and Ramirez"
+5782,Cheryl Baker,Female,21,English,67.27,2025-04-28,North Logan,Year 3,Williams-Taylor
+9327,Daniel Hicks MD,Female,22,Math,78.49,2025-04-26,Perezburgh,Year 3,Caldwell LLC
+2276,Jennifer Daniels,Male,20,Computer,74.57,2025-01-07,Rowlandville,Year 3,Ramirez and Sons
+1940,Marc Ross,Male,23,History,81.79,2025-05-05,West Ashley,Year 1,Brown-Griffin
+3985,Bailey Brooks,Male,22,Math,87.36,2025-04-30,Browntown,Year 2,Shaw-Lowe
+6675,Dustin Williams,Female,21,History,58.57,2025-07-14,Richardsonberg,Year 4,Salazar-Mcconnell
+8868,Stephanie Montoya,Female,19,Math,41.62,2025-02-26,Nicholechester,Year 3,Padilla Group
+2626,Mariah Jackson,Female,20,English,94.12,2025-03-24,Port Brianville,Year 2,Miller-Hunter
+4077,Lori Castillo,Female,19,Computer,93.51,2025-05-09,Smithchester,Year 1,Nelson PLC
+6303,Mr. Terrance Meyer Jr.,Female,25,Computer,71.75,2025-09-20,Howeland,Year 3,Armstrong-Miller
+6564,Michelle Jones,Female,23,History,40.63,2025-09-02,West Joshua,Year 2,Rhodes Ltd
+3941,Daniel Schwartz,Female,24,English,66.6,2025-10-09,East Carlostown,Year 4,Davis Ltd
+7597,Mr. Edgar Leach,Female,20,Math,91.94,2024-11-06,Port Mark,Year 3,King-Bell
+1093,Abigail Mcmahon,Female,24,History,94.55,2024-10-26,Tylerburgh,Year 1,Perez-Simmons
+4272,Alexandra Soto,Female,24,Math,41.52,2025-05-31,Andrewmouth,Year 4,"Perez, Cisneros and Wood"
+5803,Stephanie Ryan,Female,25,Computer,67.28,2025-07-28,Bakerside,Year 3,"Schaefer, Mcclure and Washington"
+8790,Brittany Baker,Female,23,History,73.32,2025-03-05,Robinsonchester,Year 3,Garcia-Miles
+5989,Kristen Gonzalez,Male,20,Computer,89.37,2025-04-22,Miguelchester,Year 2,Franco-Price
+4857,Kyle Perry,Male,19,Computer,94.33,2025-10-04,Larryfurt,Year 2,Miller-Williams
+9081,Richard Aguirre,Male,20,Science,59.8,2025-09-15,West Reginamouth,Year 4,Lawrence-Nguyen
+6793,Heather Gray,Female,18,English,70.54,2024-12-17,Lake Michaeltown,Year 2,"Nash, Cunningham and Rivera"
+2652,John Gonzalez,Female,24,Math,63.89,2025-04-30,South Dana,Year 1,Johnson LLC
+1492,Taylor Morrow,Female,19,History,78.26,2025-08-04,South Angela,Year 4,Young-Miller
+2116,Andrew Burgess,Male,21,Computer,78.03,2025-04-22,New Danny,Year 1,"Smith, Gould and Moore"
+7935,Kristin Perez,Male,22,Math,73.09,2024-10-25,North Jessica,Year 1,Avila-Weiss
+3585,Kristen Snyder,Female,25,History,43.94,2024-12-25,New Michael,Year 1,Aguilar Group
+7200,Matthew Alvarez,Female,18,Science,56.07,2025-09-24,Lake William,Year 2,"Walker, Roberts and Smith"
+6022,Jason Gallagher,Female,20,Math,55.06,2025-05-11,Nancyport,Year 1,"Ware, Edwards and Simon"
+7291,Susan Bond,Male,18,Computer,96.18,2025-02-06,North Joseph,Year 4,Baldwin LLC
+4202,Shannon Davidson,Male,23,English,78.72,2025-03-31,New Gordon,Year 3,Edwards-Carey
+5669,Brenda Miller,Female,25,Computer,84.41,2025-08-08,Bakerburgh,Year 3,Larson-Gordon
+3363,Justin Ford,Female,22,Computer,69.33,2025-04-01,South William,Year 3,Moreno-Hamilton
+9523,Valerie Lee,Male,20,Science,66.68,2025-08-17,Lake Nancy,Year 2,Mendoza and Sons
+5639,Mark Short,Male,19,English,69.94,2025-09-24,Watsonside,Year 1,Bryan and Sons
+1871,Dennis Miller,Male,23,English,72.9,2024-10-30,West Deborah,Year 1,Moore LLC
+6980,Jason Potter,Male,24,Computer,75.19,2024-12-10,Chapmanberg,Year 3,Carey LLC
+9823,Joshua Mcconnell MD,Female,24,Science,66.45,2025-02-14,South Robertachester,Year 1,Jones LLC
+6673,Devin Austin,Female,22,History,69.69,2025-07-29,Smithberg,Year 1,Gardner-Tyler
+2789,Stephen Lucas,Male,22,Science,85.07,2024-11-13,East Leslie,Year 3,Martinez Inc
+6831,Heather Carrillo,Male,24,History,74.45,2025-04-19,New Joannland,Year 3,Osborne Ltd
+8246,James Williams,Male,21,History,65.42,2025-06-02,Wilsonstad,Year 2,Carroll-Flores
+8056,Rachel Sanford,Female,24,English,99.38,2024-11-30,South Brianna,Year 4,"Rollins, Davis and Hayes"
+9450,Lauren Bell,Female,19,Science,99.74,2025-06-10,Lake Daniel,Year 1,"Rogers, Phelps and Turner"
+8268,Samuel Davis,Male,24,Math,58.34,2025-09-05,Port Ashley,Year 2,Wilson-Smith
+2147,Richard Garcia,Female,19,History,91.85,2025-01-25,Lake Molly,Year 1,Patterson-Abbott
+9601,Philip Lawson,Male,19,Computer,59.15,2025-07-31,West Joshua,Year 1,Mcneil-Collins
+2975,Christina Sandoval,Female,20,English,51.81,2025-06-08,Port Robert,Year 3,Oneal-Evans
+5657,Bruce Perry MD,Female,21,English,97.01,2025-06-04,West Bradyshire,Year 4,Norman and Sons
+5048,Denise Boyle MD,Female,18,Computer,84.95,2024-11-07,South Thomashaven,Year 1,Holloway and Sons
+6449,Taylor Smith,Male,23,Science,44.17,2025-05-01,Marystad,Year 3,Green-Harrington
+2121,Judith Blanchard,Male,25,History,62.59,2025-02-16,Port Richard,Year 1,Pratt Group
+5518,Justin Cole,Male,22,Science,53.69,2025-07-09,South John,Year 4,"Hansen, Martin and Murray"
+1248,Xavier Burns,Female,23,Computer,82.87,2025-02-08,North Mark,Year 1,"Mccoy, Knox and Sims"
+9120,Jodi Shaw,Male,19,English,67.66,2025-09-09,Schwartzville,Year 4,"Warren, Chavez and Steele"
+9285,Nancy Watson,Female,23,Computer,95.91,2024-10-22,West Charles,Year 4,Brown Ltd
+4338,Stacy Frost,Male,25,Computer,43.18,2025-09-15,Bakerburgh,Year 2,Clark Inc
+9442,Karen Terry,Male,19,English,60.85,2025-08-15,West Robertside,Year 2,Jones Group
+2716,Stacey Watts,Male,20,Math,67.69,2024-12-05,Kristenmouth,Year 3,Copeland Inc
+1045,Stacy Sharp,Male,25,Computer,63.71,2025-10-05,Philipborough,Year 3,Lee Inc
+5186,David Novak,Female,21,English,81.72,2025-06-11,Stephanieshire,Year 2,"Morrison, Hoffman and Hale"
+2542,Lisa Faulkner,Male,20,History,64.56,2025-06-08,Lake Maryfort,Year 4,Choi PLC
+1144,Jasmine Anderson,Female,20,Science,80.4,2025-10-15,West Jose,Year 1,"Navarro, Rivera and Lee"
+5766,Ryan Cox,Male,23,History,63.21,2025-08-05,Marthaton,Year 2,Colon-Stone
+9053,Tanya Morris,Female,25,English,73.54,2025-08-03,Vincentchester,Year 4,Collins and Sons
+1579,Michelle Frazier,Male,19,English,88.31,2025-01-14,Lake Christophermouth,Year 4,Kennedy-Solis
+8750,Jennifer Gonzalez,Female,19,Science,67.06,2025-04-07,Munozmouth,Year 3,Brown and Sons
+1570,Jill Thomas DDS,Female,25,English,40.85,2025-05-22,Port Juliaberg,Year 2,Miller-Collins
+8428,Steven Hall,Male,25,Math,65.15,2025-06-30,Lake Kevin,Year 3,Flowers-Adams
+7093,Ann Spencer,Male,19,Computer,77.82,2024-10-21,West Robert,Year 2,Hamilton LLC
+4831,Tanya Long,Male,25,Science,40.91,2025-03-24,Ronaldberg,Year 1,Smith Inc
+4353,Ashley Schmidt,Male,22,Computer,84.04,2025-01-25,New Michellemouth,Year 4,Farrell-Tyler
+8989,Heather Baldwin,Male,18,English,47.93,2024-12-16,Port Heathershire,Year 4,"Bailey, Rodriguez and Sanders"
+2076,Alexandra Grant,Male,24,Computer,50.01,2025-08-17,North Rachelbury,Year 3,"Howell, Barnett and Underwood"
+7918,Diana Villarreal,Male,22,Math,62.74,2025-02-01,Patrickbury,Year 3,"Horne, Peters and Moore"
+1686,Marisa Davis,Male,23,Science,99.64,2025-02-07,Maxwellstad,Year 2,Underwood-Gonzalez
+1402,Elizabeth Nash,Male,24,Math,55.42,2025-03-22,Garciabury,Year 2,"Gonzalez, Wright and Boone"
+2748,Heather Ward,Female,24,Math,81.42,2025-07-25,West Emily,Year 1,"Hunt, Ali and Clark"
+1332,Elizabeth Williams,Male,23,History,81.27,2025-10-19,East Harryfurt,Year 4,"Robinson, Lewis and Pineda"
+2494,Jody Hill,Male,24,History,60.81,2025-01-20,West Amandaborough,Year 4,Simpson Inc
+8260,Kelly Mcdowell,Female,20,History,41.71,2025-07-21,Lake Jacobshire,Year 2,Garcia-Rodriguez
+9126,Angela Mack,Male,19,Math,96.15,2025-03-26,Brewerland,Year 4,Lowe-Armstrong
+2512,Carla Ramirez DDS,Female,24,Computer,93.1,2025-03-08,Jamiemouth,Year 2,Terrell-Marshall
+7087,Hector Lee,Male,18,Science,53.84,2025-01-04,Port Tiffany,Year 4,"Miller, Hall and Klein"
+3449,Rachel Thompson,Male,21,Computer,41.64,2025-10-15,West Shelly,Year 2,"Davis, Rodriguez and Anderson"
+6565,Morgan Orr,Male,19,Math,49.36,2025-03-15,New Emily,Year 4,"Ross, Vasquez and Frazier"
+8376,Matthew Campbell,Female,18,Science,90.88,2025-09-29,South Melissa,Year 4,Lewis Inc
+4704,Shannon Ruiz,Male,18,English,92.56,2025-02-20,New Christopherberg,Year 1,"Hill, Martinez and Nguyen"
+5900,Dr. Julie Pham PhD,Male,24,Computer,70.48,2024-12-18,New Veronicahaven,Year 3,Ellis Ltd
+7417,John Curtis,Female,23,Computer,86.6,2024-11-24,Bishopmouth,Year 1,Jones and Sons
+8964,Benjamin Martin,Male,20,History,51.8,2024-12-04,Rodriguezside,Year 2,Blackwell Inc
+6997,Brent Jones,Male,23,Science,56.07,2025-04-11,Carolinebury,Year 1,"Moreno, Ross and Calderon"
+8372,Matthew Lopez,Male,19,History,98.83,2025-07-18,West Michaelview,Year 4,Bowers Group
+9718,Michael Hamilton,Male,22,Computer,88.65,2024-12-27,New Tylerhaven,Year 3,Thompson-Nelson
+4747,John Perry,Male,19,History,56.08,2025-05-27,Meganport,Year 3,Coleman PLC
+7805,Christina Johnson,Male,25,Math,50.93,2025-08-24,Richardbury,Year 3,Hoffman-Beck
+5083,Colleen Lucas,Male,22,English,72.25,2025-08-06,Lake Thomas,Year 1,Sweeney-Ford
+4497,Paul York,Female,18,Science,82.23,2025-03-04,North Benjamin,Year 2,Barnett-Morgan
+3095,Eric Chen,Female,25,English,42.3,2025-09-30,New Chase,Year 2,"Powers, Cooper and Rowe"
+2976,Kimberly Rodriguez,Male,21,Science,46.32,2025-05-25,East Caroline,Year 3,Brown Inc
+6671,Lori Thompson,Female,23,History,78.72,2025-04-08,Pageview,Year 2,Gonzalez-Smith
+2965,Diana Robertson,Male,19,Math,58.19,2024-11-15,Collinsview,Year 3,Flores PLC
+9014,Randy Cline,Female,24,Science,87.7,2024-10-30,East Mario,Year 2,Brown PLC
+4573,Linda Jacobs,Female,20,Math,68.61,2025-08-02,West Rebekahbury,Year 1,"Fisher, Hayes and Thomas"
+9573,Andrew Wilkinson,Male,24,English,69.87,2025-06-07,Shafferchester,Year 4,Espinoza Inc
+7359,Anthony Mclaughlin,Female,20,English,62.31,2024-12-30,North Sarahmouth,Year 2,Kirk LLC
+4697,Joshua Anthony,Male,19,English,80.49,2025-04-23,Port Ashley,Year 1,Smith and Sons
+7929,Dr. John Clark DDS,Female,20,English,42.76,2025-08-09,Brewerstad,Year 3,Johnson-Morrison
+2141,Elizabeth Patterson,Male,22,English,86.67,2025-08-02,Garciamouth,Year 3,Parsons and Sons
+3221,William Livingston,Female,21,Math,78.5,2024-12-11,Moodyport,Year 1,Olsen-Ortiz
+3439,Stephanie Huff,Male,18,Science,45.68,2025-01-07,New Robertberg,Year 1,"Burke, Patton and Jordan"
+5889,Martin Smith,Male,18,Computer,99.58,2024-12-31,Wilcoxstad,Year 4,Rosario Group
+6801,Michael Andrews,Male,25,Science,95.21,2025-09-24,West Carolstad,Year 2,Luna Ltd
+4269,Casey Wallace,Male,25,Science,45.09,2025-08-01,Lake Bethberg,Year 3,Floyd-Bishop
+9591,Angela Watson,Female,23,History,47.2,2025-08-23,South Laura,Year 3,Richardson LLC
+3596,Diane Alexander,Female,18,Science,84.72,2025-10-15,Port Patrick,Year 2,Mcdowell PLC
+4155,Mary Brown,Female,19,Computer,57.81,2024-11-27,Allisonberg,Year 1,"Dunn, Brown and Wheeler"
+5325,Lori Jones,Male,19,Math,62.27,2025-05-17,New Lisaside,Year 4,Bolton LLC
+6524,Dana Wiggins,Male,20,Computer,91.69,2025-05-13,Angelicaview,Year 2,Moss and Sons
+7340,James Lynn,Male,20,History,62.1,2025-07-12,Annview,Year 3,"Vaughn, Glass and Berg"
+1427,Jennifer Smith,Male,22,Computer,67.87,2025-07-28,Josephchester,Year 4,Anderson Inc
+3305,Jason Norton,Male,24,History,95.18,2025-09-24,Mercadoberg,Year 4,Jenkins LLC
+4125,Courtney Lane,Female,23,History,51.94,2025-03-03,Alecmouth,Year 3,"Phelps, Pena and Scott"
+3352,Ruth Lane,Female,25,Computer,45.42,2025-05-01,Madisonhaven,Year 2,"Davis, Morgan and Davis"
+1639,Scott Villa,Male,18,Computer,47.81,2025-03-01,South Robertbury,Year 4,Mclean-Lambert
+9129,Jeffery Chen,Female,22,English,79.54,2025-07-30,Fernandezburgh,Year 4,Delgado Ltd
+6637,Kimberly Whitaker,Female,18,Math,98.0,2025-02-11,Jeffreyburgh,Year 4,Webster-Allen
+7615,Andrea Henderson,Male,18,English,88.26,2024-11-23,Millerstad,Year 4,"Smith, White and Sharp"
+4226,Michael Rodriguez,Male,23,English,82.39,2025-03-30,Anneburgh,Year 4,"Beasley, Rodriguez and Dunn"
+7201,Richard Wilkins,Male,21,Computer,48.5,2025-02-08,East Davidbury,Year 4,May Inc
+7007,Kenneth Rivera,Male,25,Math,83.41,2025-01-08,Reneeland,Year 3,Underwood-Woods
+2591,Taylor Garcia,Female,25,History,91.38,2025-05-06,Allentown,Year 3,Phillips PLC
+1850,Molly Cole,Female,18,Computer,55.62,2025-07-03,Scottfurt,Year 3,Sparks-Lane
+9528,Crystal Taylor,Female,25,Computer,95.19,2025-04-12,Greentown,Year 3,"Lee, Fox and Stevenson"
+2401,Edward Miller,Male,19,Computer,59.38,2025-04-11,Nicholsonton,Year 1,Meyer-Williams
+9276,Lindsey Cowan,Male,24,History,73.56,2025-04-07,Lake Nicoleland,Year 3,"Mills, Martin and Maldonado"
+5068,Robert Cummings,Female,24,Math,88.98,2025-03-27,Lopezhaven,Year 4,Roberts-Garcia
+2680,Wesley Jackson,Female,23,Science,86.76,2024-11-05,West William,Year 3,Thompson PLC
+1539,Angela Simpson,Male,25,Math,56.84,2025-03-26,West Kellyland,Year 1,Flynn PLC
+1582,Marvin Estrada,Female,24,Computer,88.36,2025-07-23,Cassandraberg,Year 2,Ruiz-Carter
+6448,Kenneth Williams,Male,21,English,99.51,2025-05-12,Gonzalezbury,Year 3,Elliott-Clark
+6873,Becky Evans,Female,25,Math,76.49,2024-11-09,Barrettmouth,Year 1,Lyons-Vincent
+8884,Brittany Perkins,Male,23,History,75.84,2025-05-09,Brandonburgh,Year 4,Edwards-Johnson
+7662,Rebecca Osborne,Female,22,Computer,79.8,2024-10-28,West Jamestown,Year 2,"Fox, Willis and Mitchell"
+6741,Joshua Lam,Male,24,History,61.95,2024-12-26,Port Danielshire,Year 1,Cole PLC
+9964,Melissa Carrillo,Male,18,History,43.43,2025-01-14,Greenfort,Year 3,"Bauer, Wilkinson and Holmes"
+8383,Tammie Rivera,Female,23,English,49.93,2025-03-10,Mcdonaldland,Year 3,Garcia PLC
+1601,Mason Fitzpatrick,Male,20,Math,43.21,2025-10-14,West Adam,Year 4,Leblanc and Sons
+3007,Sharon Benson,Male,21,Computer,42.18,2025-08-02,Port Elizabethside,Year 2,Powers Inc
+9250,Robin Jones,Male,21,Math,75.39,2025-05-24,Alexanderside,Year 3,Wiley-Stephenson
+7675,Denise Jensen,Female,24,Math,53.14,2025-07-08,North Jacqueline,Year 2,"Dillon, Martin and Gonzalez"
+5026,James Wolf,Female,20,Math,86.64,2024-10-25,Lake James,Year 2,Lopez-Brown
+2711,Donna Sharp,Male,23,Math,52.73,2025-10-06,South Michaelstad,Year 4,Lynch-Rios
+4672,Nancy Jones,Female,19,Computer,79.15,2025-03-27,North Kellychester,Year 2,"Parker, Meyers and Gutierrez"
+4219,Dustin Perkins,Male,24,Math,68.82,2025-05-19,Port Michael,Year 3,Anderson-Pitts
+6176,Alicia Davis,Female,22,English,52.26,2025-05-05,Port Melissaburgh,Year 3,Gardner PLC
+3800,Margaret Schwartz,Female,23,Math,54.08,2025-04-06,Chasefort,Year 3,Gallagher Group
+2655,Mitchell Henry,Male,18,Science,69.24,2025-10-16,South Michael,Year 2,Lopez-Taylor
+5286,Darryl Lewis,Female,22,History,81.1,2025-09-15,Taylorburgh,Year 1,Lopez PLC
+4629,Christopher Jensen,Female,25,Math,51.28,2024-11-07,New Alexandrastad,Year 2,Valencia Group
+9956,Cynthia Anderson,Female,19,Science,63.16,2024-10-30,East Nancy,Year 2,Miller-Rose
+4390,Casey Stewart MD,Male,23,English,51.05,2025-04-23,Johnsonland,Year 2,Morrow and Sons
+3793,Erin Holland,Male,18,Science,64.35,2025-08-02,Sanchezshire,Year 4,"Lutz, Chandler and Johnson"
+8334,Frank Becker,Female,25,English,60.7,2025-01-18,Vickieville,Year 2,Thompson-Ward
+2835,James Ross,Female,25,English,72.19,2024-11-27,North Anthonyville,Year 4,Johnson Inc
+3534,Sandy Schultz,Male,19,Computer,65.63,2025-03-15,New Amanda,Year 1,Moreno-Kelly
+6153,Cheryl Huffman,Female,18,Science,71.52,2025-04-25,North Sandy,Year 3,"Duffy, Blankenship and Horn"
+2874,Adam Jones,Female,24,History,74.26,2025-01-21,Frankberg,Year 2,Rose PLC
+4885,Joy Holland,Female,23,History,77.65,2024-11-15,East Juliefurt,Year 1,"Howard, Mayo and Warren"
+5814,Dr. Julie Underwood,Male,24,Math,85.96,2024-10-24,Lake Clintontown,Year 1,Hunt-Johnson
+7530,Jennifer Oliver,Male,23,Science,50.39,2025-03-28,Sandraview,Year 2,"Thomas, Baldwin and Frank"
+6796,Tanya Garcia,Female,20,English,53.85,2025-04-14,New Alan,Year 2,"West, Burgess and James"
+3084,Troy Harrison,Male,25,English,97.33,2025-09-09,Helenton,Year 4,"Robinson, Wilson and Black"
+9071,Dorothy Stevens,Male,18,Science,71.67,2025-02-13,Lake Monique,Year 1,"Molina, Williams and Coleman"
+8150,Lauren Taylor MD,Male,23,Computer,49.31,2024-11-10,West Garyhaven,Year 1,"Fuentes, Harris and Mccarthy"
+5865,Karen Horton,Female,23,Math,47.91,2024-12-08,Martinezview,Year 1,Chan-Becker
+4096,Claire Nicholson,Male,25,Math,84.76,2025-06-09,North Brandi,Year 2,Reid PLC
+9372,Michael Ward,Female,22,History,67.02,2025-04-24,East Tinaburgh,Year 4,Mccormick-Olson
+2654,Heidi Jenkins,Male,25,History,82.16,2025-09-17,Lake Jonathan,Year 2,"Cortez, Jimenez and Wilson"
+3419,Brenda Love,Female,24,English,80.38,2025-09-28,Marybury,Year 1,Gill Ltd
+2319,Allen Williams,Female,22,English,86.5,2025-03-09,South Vincent,Year 3,Clark Inc
+4593,Jennifer Meyer,Female,24,History,52.11,2025-06-22,Sydneyfurt,Year 4,"Stevenson, Davis and Johnson"
+4670,David Spencer,Male,19,Science,90.54,2025-06-06,North Mariaview,Year 2,"Lawson, Wallace and Stevenson"
+5497,Kristin Phillips,Female,19,History,66.65,2025-05-10,New Patrickshire,Year 2,"Johnson, Davis and Reese"
+1046,Samantha Rhodes,Female,23,English,44.81,2024-12-08,Crystalstad,Year 3,Lutz Ltd
+2511,Kenneth Hopkins,Male,25,English,94.02,2025-04-11,New David,Year 1,Miller-Joyce
+8711,Deborah Patterson,Female,24,Computer,52.31,2024-12-13,Kristimouth,Year 1,Douglas Inc
+8797,Gene Crawford,Female,23,History,85.84,2025-01-16,South Christopher,Year 1,Hawkins Group
+5707,Carol Rodriguez,Male,22,History,73.81,2025-01-04,Port Madison,Year 2,Young LLC
+8987,Mark Spencer,Female,25,History,93.19,2025-02-25,West Roberto,Year 1,"Harris, Knight and Hebert"
+5544,Paul Johnson,Female,22,History,93.08,2024-11-09,Port Tiffanystad,Year 1,Anderson PLC
+6150,Bailey Johnson,Male,20,Computer,97.49,2025-08-31,New Matthewmouth,Year 3,Young-Bennett
+2110,Marilyn Henderson,Female,19,English,76.8,2024-10-28,New Rodneyborough,Year 3,"Chandler, Wood and Hill"
+9076,Carol Velez,Male,23,English,93.39,2025-01-21,Jamesborough,Year 4,Parks LLC
+3591,Andrea Harris,Female,18,History,70.06,2025-03-17,East Johnview,Year 3,"Fisher, Mccullough and Lam"
+4538,Richard Johnson,Male,18,English,53.45,2025-03-02,East Lindseyhaven,Year 3,Bell-Beasley
+4400,Charles Norton,Female,19,Math,59.86,2025-03-09,East Cassandraborough,Year 3,"Frazier, Jones and Hester"
+6972,Tracy Preston,Male,18,Math,90.82,2025-03-18,Gardnerchester,Year 2,"Watkins, Jackson and Everett"
+3097,Wesley Williams,Female,24,Science,81.2,2025-06-25,Snydermouth,Year 4,Collins-Baker
+5631,Brad Hunt,Male,25,English,82.68,2024-11-01,Chasechester,Year 1,"Bryant, Klein and Russell"
+3487,Megan Simmons,Male,21,Math,66.55,2025-09-08,Leebury,Year 4,Stout-Miller
+4445,Joseph Rodriguez,Male,24,Computer,97.3,2025-04-14,East Johnside,Year 1,"Mccoy, Huff and Frost"
+9133,Anthony Holloway,Male,24,English,82.84,2025-02-28,Karenberg,Year 1,Velasquez and Sons
+4581,John Johnson,Male,20,English,71.68,2025-03-02,Hortonfurt,Year 1,Washington-Waters
+3554,Patricia Evans,Male,19,English,66.7,2024-11-22,Benjaminport,Year 4,Nolan-Bradley
+2323,Megan Wilson,Male,18,Computer,60.22,2025-03-12,West Courtney,Year 2,Jenkins-Davis
+6158,Brian Mcdonald,Male,20,English,67.15,2025-02-13,West Brendatown,Year 1,Escobar Ltd
+2037,Diamond Clark,Male,20,Math,55.82,2025-04-17,South Angelaton,Year 1,"Davis, Miller and Steele"
+3385,Amber Lee,Male,18,History,99.06,2025-04-13,Michaelside,Year 2,Clements-Wiley
+4103,Craig Coleman,Female,23,Science,57.16,2025-03-01,Henryville,Year 2,Davis Inc
+6078,Dylan Gonzalez,Male,24,Math,57.63,2025-03-28,North Kenneth,Year 2,"Wood, Juarez and Diaz"
+8136,Jessica Rose,Female,22,Math,65.8,2024-11-24,South Nicholasburgh,Year 3,"Salinas, Harrison and Johnson"
+4510,John Cook,Female,25,English,62.73,2025-06-28,Thomasmouth,Year 2,"Willis, Watts and House"
+4330,Robin Bryan,Male,23,English,55.77,2024-12-04,New Margaret,Year 2,"Rodriguez, Bell and Graham"
+3960,Ryan Duncan,Male,24,English,99.8,2025-06-11,Lake Sandra,Year 3,Lang Group
+7391,Alexander Morris,Male,20,Science,79.27,2025-05-09,West Thomas,Year 4,Luna-Ford
+7110,April Douglas DDS,Male,20,Computer,79.13,2025-01-28,Valeriemouth,Year 4,Moore and Sons
+8904,Lawrence Gallagher,Female,25,History,61.29,2025-06-13,Hughesshire,Year 2,Powell-Norman
+4852,Mrs. Courtney Jenkins DVM,Female,19,Computer,41.7,2025-06-17,Williamsshire,Year 2,"Morris, Williams and Chung"
+3340,Kathryn Garcia,Female,20,English,56.26,2025-01-05,Zacharychester,Year 4,Knight-Davidson
+2232,Tina Guerrero,Male,20,Math,41.13,2024-11-15,Patriciaport,Year 3,"Duran, Wall and Wallace"
+3601,Patrick Green,Female,18,English,59.7,2025-04-14,Tracyville,Year 1,"Olsen, Ward and Sanders"
+6810,Michael Graham,Male,24,History,92.69,2025-06-29,Roachburgh,Year 2,"Robinson, Brown and Meza"
+5444,Jason Craig,Male,21,English,81.96,2024-10-20,Randalltown,Year 3,Miles Group
+7447,Troy Mason,Male,21,English,95.9,2025-06-25,East Jeffrey,Year 4,Myers Ltd
+6624,Rachel Noble,Female,19,Math,71.96,2025-05-29,Tracyside,Year 4,Kelley-Moody
+6789,John Rich,Female,22,History,67.29,2025-10-02,Angelahaven,Year 2,"Miller, Rose and Green"
+9447,Gary Stevens,Male,22,History,72.49,2025-02-08,Lake Heather,Year 3,Walker PLC
+3647,Nicole Lawson,Female,25,Science,52.1,2025-02-17,Cartershire,Year 1,Ramirez PLC
+5959,Justin Oconnor,Male,18,English,50.41,2025-07-05,West Kim,Year 2,Romero PLC
+6053,Jasmine Hart,Male,20,History,87.44,2025-03-17,Port Tyler,Year 4,"Gill, Anderson and Beck"
+4571,Kyle Parker,Female,21,Science,70.79,2025-09-29,Franklinton,Year 4,Brown Inc
+2540,Kelly Smith,Female,23,Math,67.2,2025-06-18,Joshuaburgh,Year 3,Ayers-Garrison
+9462,Samuel Reid,Male,22,English,46.38,2024-11-24,Port Brittneyshire,Year 2,Dunn-Lloyd
+2149,Dr. Richard Taylor,Female,18,Math,83.34,2025-08-21,Jimenezchester,Year 3,"Zamora, Foster and Howard"
+6464,Nathan Griffith,Female,19,English,50.31,2025-01-17,Lake Catherinestad,Year 3,Johnson-Mcclure
+2143,Sara Mayer,Female,25,English,68.93,2025-06-24,East Shannonburgh,Year 2,Ramirez and Sons
+6099,Amanda Lyons,Male,22,Science,45.65,2025-07-07,Lake Danielhaven,Year 1,Parsons-Miller
+8534,Kimberly Mccoy,Female,21,English,59.98,2025-09-24,Port Melaniefort,Year 4,Wong Inc
+9092,Laurie Padilla,Male,24,History,51.08,2025-06-20,West Tamaraport,Year 3,"Taylor, Weeks and Cortez"
+2532,Susan Turner,Male,19,Science,90.46,2025-08-05,South Robinmouth,Year 1,Harris Ltd
+1365,Brittany Taylor,Female,23,English,53.02,2025-09-06,South Ryanton,Year 2,Patel-Vargas
+1844,Amanda Morgan,Female,22,Computer,96.83,2024-11-26,Santanastad,Year 3,Ruiz PLC
+3021,Timothy Daniels,Female,24,Computer,84.15,2025-08-18,East Luis,Year 2,"Flynn, Bird and Ortega"
+5404,Thomas Mason,Male,21,History,85.67,2025-07-09,Heberttown,Year 4,Yates Group
+3715,Stacey Lawson,Female,24,English,53.62,2025-05-23,Allenport,Year 4,"Jones, Reese and Hall"
+9946,Jacqueline Knight,Male,25,English,64.63,2025-03-16,Lake Heatherberg,Year 2,"Hodge, Bennett and Rollins"
+8959,Steven King,Male,20,History,41.21,2025-08-31,Robinville,Year 4,Fischer-Barber
+9238,Tracy Blackwell,Female,19,Science,80.76,2025-01-04,Patriciafurt,Year 4,"Morris, Pierce and Ramsey"
+5416,Richard Chavez,Male,24,History,88.64,2025-02-11,Port Samuel,Year 2,Reed-Price
+4589,Nicholas Fowler,Female,18,English,85.02,2025-08-05,Branchberg,Year 4,Michael-Valentine
+4339,Robert Chapman,Male,21,Science,68.83,2025-01-03,Scottshire,Year 4,Stevens-Martin
+9880,Andres Lucas,Female,19,Math,47.76,2025-07-09,Port Catherine,Year 2,"Morgan, Rivers and Cohen"
+1256,Lawrence Anderson,Female,20,Science,78.11,2024-12-04,North Timothy,Year 4,"Hansen, Hill and Olson"
+3077,Erin Kerr,Male,20,Science,60.74,2025-05-18,Kathleentown,Year 4,"Petersen, Bell and White"
+1065,Jill Lamb,Male,19,Math,86.45,2025-06-13,Port Frankchester,Year 3,Fox LLC
+2277,Christopher Livingston,Female,22,Math,64.61,2025-10-05,Lake Dustinmouth,Year 1,Bowen LLC
+5860,Megan Perez,Female,25,Computer,47.25,2024-12-01,Port Dana,Year 2,Simpson-Clayton
+5378,Faith Bauer,Female,24,Science,61.21,2025-08-03,New Andrewfurt,Year 1,Bender Ltd
+8951,James Tate,Male,20,Science,78.94,2025-02-22,Lake Peter,Year 2,Walker Group
+2667,Susan Flores,Female,20,History,56.57,2025-08-31,Reedville,Year 4,Lopez Group
+9155,Seth Valencia,Female,21,Science,59.22,2025-07-18,Deborahhaven,Year 2,"Adams, Reed and Strickland"
+8297,Sean Nguyen,Female,20,Math,97.37,2025-09-14,Cruzton,Year 3,Reed Ltd
+7252,Jeanette Wright,Female,25,Math,63.33,2025-01-27,Cunninghammouth,Year 3,Ramirez LLC
+9526,Mr. Curtis Marshall,Male,24,Computer,60.04,2025-03-16,Durantown,Year 4,Howard-Allen
+2229,Charles Smith,Female,19,English,95.52,2024-10-29,Burgessland,Year 3,Burns Ltd
+8947,Theresa Mahoney,Female,18,Computer,55.4,2024-12-24,New Marioville,Year 4,"Williams, Moore and Fowler"
+8417,Michael Santiago,Female,18,English,97.77,2024-10-24,North Jonathanmouth,Year 3,"Hernandez, Barnett and Crawford"
+9108,Misty Fuller,Male,18,Science,50.42,2025-01-12,South Danielborough,Year 3,Cordova Inc
+9312,Danny Phillips,Female,19,Math,67.66,2025-09-13,West Hollyfurt,Year 1,Johnson PLC
+8953,Brenda Hoover,Female,18,Science,47.97,2025-04-15,South Christopher,Year 1,"Black, Howard and Stephenson"
+3880,Brittany Green,Female,25,English,41.75,2025-07-08,Kelleyshire,Year 4,Christian-Lewis
+7585,Kaitlyn White,Male,24,Math,84.9,2025-07-21,Josephmouth,Year 3,Willis Ltd
+5181,Michelle Jefferson,Male,25,English,72.94,2025-06-07,West Jasonfurt,Year 4,"Mclean, Johnson and Bean"
+2186,Luis Keith,Female,23,Science,67.43,2025-06-16,Lake Christopherside,Year 2,Harris Group
+1098,Luis Barnett,Male,23,History,98.25,2024-11-23,New Amandamouth,Year 4,Garcia LLC
+8681,Matthew Sweeney,Female,25,Computer,95.86,2025-01-13,Jessestad,Year 4,Davis Ltd
+4802,Timothy Davis,Male,23,Math,58.86,2025-07-10,New Sophia,Year 4,Hines PLC
+4119,Dr. Thomas Wiggins,Male,20,Science,48.62,2025-05-25,North Gary,Year 3,Oneill and Sons
+8796,Breanna Campbell,Male,19,Computer,45.58,2025-07-09,Wagnermouth,Year 1,"Ortiz, Young and Duke"
+2368,Carrie Carr,Male,24,English,86.49,2025-05-31,Lake Scottview,Year 1,"Tucker, Vasquez and Russell"
+1382,Michael Flores,Female,22,History,81.03,2024-11-15,Port Tiffany,Year 1,"Pierce, Hull and Garcia"
+6862,Mr. Daniel Mercer,Female,18,English,99.12,2024-10-23,New Vanessa,Year 4,"Cooper, Jones and Henderson"
+1216,Andrew Weber,Male,19,History,43.36,2025-06-25,West Russellfort,Year 3,"Kim, Pacheco and Dean"
+8589,Lisa Adams,Male,18,English,91.16,2025-05-09,West Lindsaybury,Year 1,Pope-Taylor
+8350,Gregory Thomas,Male,19,English,48.26,2025-09-30,Port Normaview,Year 2,Houston PLC
+1039,Stephen Hodges,Male,25,Science,71.27,2025-09-15,South Bailey,Year 4,"King, Martin and Hinton"
+5450,Laura Galloway,Male,21,English,63.53,2025-05-29,New Jamieport,Year 2,Woods LLC
+5822,Kimberly Mack,Female,20,History,64.23,2024-11-28,West Joelberg,Year 3,Harris Group
+6276,Rebecca Green,Male,25,Science,99.76,2024-11-17,North John,Year 3,Marks LLC
+4203,Tammy Carlson,Female,25,Math,60.01,2025-08-19,Daleville,Year 1,Harris-Moss
+7337,John Edwards,Male,18,History,66.01,2025-09-30,North Kyleview,Year 2,"Thomas, Nguyen and Pittman"
+9814,Vanessa Harris,Female,23,English,59.2,2024-12-05,Lake Barry,Year 2,Salazar Ltd
+6013,Ashley Adams,Male,19,Math,74.01,2025-04-12,South Kristin,Year 4,"Edwards, Jones and Miller"
+4993,Dr. Brad Walsh,Female,25,Math,68.51,2025-10-06,North Angelaborough,Year 3,"Combs, Williams and Rose"
+8659,Warren Ford,Female,21,Science,61.78,2025-10-02,South Maryfurt,Year 4,Hall Ltd
+3477,Antonio Cantrell II,Male,21,Computer,83.39,2025-01-30,Cassidyside,Year 2,Nelson Ltd
+4657,Robert Faulkner,Female,23,History,50.4,2025-03-04,Timothybury,Year 3,"Thompson, Lopez and Sanders"
+3954,Eric Baker,Male,22,Computer,50.18,2024-12-04,Port Marcusmouth,Year 3,Reid-Moss
+6585,Anthony Schwartz Jr.,Female,21,Math,43.35,2024-11-17,Andrewstad,Year 4,"Foley, Russell and Smith"
+9150,Jean Forbes,Male,20,Math,96.92,2025-10-05,New Catherineland,Year 3,Lozano Ltd
+3687,Emily Lamb,Male,24,Computer,66.04,2025-03-21,Penastad,Year 1,Drake Group
+5695,James White,Male,19,Science,93.55,2025-07-20,Trujillomouth,Year 2,Mathis Group
+3873,Zachary Anderson,Male,22,Science,93.87,2024-12-06,Stevenport,Year 2,Moore and Sons
+2261,Kathryn Wagner,Male,21,Math,97.6,2025-03-12,Smithburgh,Year 2,Campbell-Schaefer
+9287,Steven Fisher,Female,21,English,94.19,2025-10-03,Morrisbury,Year 2,Lopez Ltd
+9249,Jasmin Knight,Female,25,Math,47.13,2025-10-15,West Katherine,Year 2,Hicks Inc
+9706,Jesse Taylor,Female,22,English,66.04,2025-04-15,Byrdville,Year 3,Bernard-Ramirez
+9489,Tony Webster,Female,18,Computer,94.08,2024-12-18,West Kristen,Year 4,Moore and Sons
+7475,Brooke Lambert,Male,19,Math,65.55,2025-07-13,Port Aaronborough,Year 4,"Robinson, Pham and Dixon"
+2555,Lisa Lopez,Male,25,Math,50.53,2025-08-04,New Anna,Year 2,"Lopez, Patel and Rios"
+8576,Nicholas Cline,Male,23,Math,79.21,2024-10-25,Port Jodychester,Year 3,Costa-Lewis
+3837,Shawn Gibbs,Male,25,Science,90.08,2024-11-24,East Matthew,Year 1,Banks LLC
+8479,Jamie Mitchell,Female,19,Computer,82.54,2025-01-04,Muellermouth,Year 2,Collins LLC
+2454,Nathan Joseph,Female,20,History,53.82,2024-12-28,Port Jasonfort,Year 1,Brown-Ritter
+1407,Megan Nunez,Male,20,English,73.2,2024-11-02,Dawnburgh,Year 3,Gardner PLC
+2491,Ryan Mcneil,Female,24,Math,78.83,2025-01-24,West Christopher,Year 4,"Hines, Howard and Mullins"
+8718,Cody Reilly,Female,20,Science,87.44,2024-12-29,Wyattport,Year 2,"Johnson, Lam and Anderson"
+6950,David Hall,Female,19,English,75.53,2024-11-18,East Miguel,Year 2,Jenkins-Sullivan
+3991,Eric Scott,Female,23,History,53.53,2025-08-16,Taraland,Year 4,Gomez-Shaw
+9194,Robert Martin,Female,23,Science,59.09,2024-12-20,Donovanmouth,Year 1,Fisher and Sons
+8556,Matthew Carter,Male,22,Science,88.26,2025-05-17,Stanleymouth,Year 3,Anderson-Burns
+8444,Lisa Brown,Female,23,Math,43.7,2024-12-16,New Mary,Year 4,Boyd-Miller
+2404,Don Edwards,Male,24,Math,72.51,2025-08-05,Petertown,Year 2,Lee-Bailey
+2099,Kristy Lester,Female,24,Math,75.14,2025-08-03,North Briannamouth,Year 3,Doyle-Alvarado
+7170,Jessica Hinton,Male,23,Math,51.41,2025-06-23,Leefurt,Year 2,Lewis Group
+5004,Cheryl Mccormick,Female,18,History,54.78,2024-12-29,Taylorview,Year 2,Williams Inc
+2778,Karen Francis,Male,22,History,76.23,2024-10-25,South Travis,Year 1,"Ramirez, Jimenez and Wright"
+2773,Tom Howard,Male,18,History,83.31,2024-10-27,Lake Mariah,Year 4,Phillips-Jones
+2071,Mike Jennings,Female,19,Computer,60.41,2025-05-24,West Lindsey,Year 3,Stafford-Ford
+5278,Charles Rangel,Male,25,English,79.08,2025-09-18,East Williamport,Year 2,"Pugh, Evans and Snow"
+2708,Jessica Morgan,Female,21,Computer,67.71,2025-03-01,New David,Year 1,Lee and Sons
+1728,Miranda Ballard,Male,24,Computer,51.92,2024-12-29,Andersonport,Year 1,"Hernandez, Guzman and Lee"
+1317,Nathan Brown,Male,18,Computer,85.09,2025-06-06,Lake Michellebury,Year 4,Hill-Lawrence
+6704,Stephanie Henry,Male,18,Math,74.09,2025-03-16,Scottchester,Year 4,"Ortiz, Rodgers and Bailey"
+3441,Gregory Carter,Male,23,English,43.52,2025-03-17,East Jennifermouth,Year 1,Underwood and Sons
+7426,Karen Moore,Male,22,Math,59.85,2024-11-12,Robinsonside,Year 1,Martinez PLC
+5294,Timothy Wilson,Female,19,Science,94.68,2024-11-15,North Rodney,Year 4,Smith Group
+3058,Melissa Fitzpatrick,Male,18,English,43.78,2025-06-07,East Christopherhaven,Year 3,Cannon-Graham
+1350,David Davis,Male,23,Computer,46.06,2025-07-21,South Michael,Year 3,Cook-Parker
+1704,Debra Daugherty,Female,23,Science,55.65,2025-06-14,Port Sharonmouth,Year 2,"Price, Washington and Rodriguez"
+6712,Wendy Goodman,Female,19,Math,41.6,2025-09-28,Port Robertbury,Year 3,Whitehead-Jenkins
+6633,Larry Richardson,Female,22,History,80.22,2025-05-01,Parkton,Year 2,Gutierrez Group
+3189,Nicole Parsons,Male,21,Math,54.58,2024-10-24,West Todd,Year 4,Phillips-Christensen
+5864,Michael Gonzales,Female,25,Math,71.22,2025-04-11,Lake Connie,Year 3,"Ruiz, Williams and Martinez"
+9336,Mark Lee,Female,23,History,45.47,2025-09-19,East Jimmymouth,Year 4,Gutierrez LLC
+8345,Kimberly Collins,Female,25,History,46.27,2025-09-26,West William,Year 3,Santiago PLC
+4034,Anita Craig,Female,21,History,84.18,2025-04-08,North Ricardoland,Year 2,Walker Group
+2921,Maria Richards,Male,24,Math,90.05,2025-01-13,North Matthewville,Year 3,Arnold-Nelson
+2660,Stephanie Long,Male,19,Science,72.13,2025-04-21,Wadeborough,Year 1,"Hardin, Olson and Johnson"
+9872,Holly Hurley,Female,20,English,68.24,2025-02-18,Justinchester,Year 4,Harris and Sons
+4225,Michael Rice,Female,23,History,81.85,2025-04-07,Jeremyfort,Year 1,Rangel-Cunningham
+1376,Jamie Thompson,Male,24,Math,41.81,2025-08-05,Carlosview,Year 1,Cruz-Valdez
+4904,Jose Barnett,Male,22,Computer,99.03,2024-11-07,Leonardfort,Year 2,Mckinney Group
+2411,Jessica Morgan,Female,20,Computer,87.47,2024-12-08,North Gregoryville,Year 4,"Nguyen, Valenzuela and Young"
+6914,Roy Mcmahon,Female,24,Science,47.97,2024-11-14,Ianberg,Year 1,Mathis and Sons
+8894,David Wallace,Male,19,Math,89.75,2025-10-07,North Jonathonport,Year 1,Carter-Duarte
+5905,Elizabeth Fritz,Male,18,Science,72.42,2025-05-13,East Trevorshire,Year 3,Harris Ltd
+8022,Michael Hill,Male,19,English,92.64,2025-07-03,East Denise,Year 3,"Johnson, Allen and Obrien"
+7658,Stephen Stafford,Male,20,English,53.58,2025-01-23,West Seth,Year 2,"Bullock, Key and Jones"
+4222,Stephanie Garner,Male,23,History,87.67,2025-10-16,Olivermouth,Year 1,Doyle LLC
+9614,Richard Zhang,Female,23,Science,40.49,2024-12-27,Sharonside,Year 1,Bowman-Lynch
+1679,Shannon Durham DDS,Male,22,Science,76.95,2024-12-13,Newtontown,Year 2,Jones Ltd
+7607,Stephen Garcia,Male,23,English,89.15,2025-05-04,Glennview,Year 4,Blair LLC
+3567,Gabriel Sparks,Male,24,Science,45.76,2025-01-12,Nathanville,Year 4,Martinez and Sons
+3989,Brianna White MD,Female,22,Math,60.58,2024-11-21,Coltonhaven,Year 3,"Downs, Garrett and Robinson"
+5948,Sabrina Ford,Male,21,Computer,86.33,2025-06-05,West Matthewmouth,Year 4,"Shaw, Santana and Foster"
+4199,Michael Flowers,Female,21,English,82.73,2025-03-09,New Williamville,Year 4,Andrews and Sons
+1824,Yvette Cochran,Male,25,History,67.01,2025-09-06,New Rebecca,Year 1,Roberts-Ramirez
+3408,Samuel Curtis,Female,19,History,96.88,2025-10-18,Lake Kevinfort,Year 4,"Edwards, Miller and Herrera"
+7069,James Gibson,Male,22,Computer,53.0,2025-06-06,West Brian,Year 1,"Cruz, Duarte and Matthews"
+1706,Luke Clay,Male,18,Computer,80.92,2025-06-16,Johnsonland,Year 3,"Thompson, Brown and King"
+1594,John Fletcher,Female,24,History,42.24,2025-07-27,Jacquelinestad,Year 1,Cook LLC
+2307,Kathy Bailey,Female,23,English,95.95,2025-04-04,Martinview,Year 1,"Camacho, Reyes and Pugh"
+9928,Antonio Robinson,Male,24,History,81.68,2024-12-24,Davismouth,Year 3,Collier-Keller
+4365,David Ferrell,Male,20,English,97.38,2025-03-15,Davidbury,Year 3,"Elliott, Sullivan and Jones"
+1083,Andrew Garcia,Male,24,Science,54.08,2025-08-10,Port Sarah,Year 3,Dawson-Jones
+2032,Laura Case,Male,24,Computer,82.87,2024-11-11,Herreraland,Year 4,Ball-Morgan
+5189,Martin Morris DDS,Male,23,Science,47.66,2025-06-25,South Heather,Year 3,"Herrera, Scott and Garza"
+3781,Donna Wu,Female,25,Computer,91.13,2025-07-29,North Kimberly,Year 3,Lopez-Ramirez
+1171,Robert Mullen,Male,21,Math,69.94,2025-02-23,Kristinhaven,Year 2,"Evans, Warren and Ibarra"
+4386,Briana Tate,Male,25,English,61.4,2025-05-13,North Anne,Year 1,"Hensley, Smith and Anderson"
+8653,Derrick Holloway,Male,18,Math,95.92,2025-10-10,North Gregoryville,Year 2,Noble-Craig
+1569,Patricia Silva,Female,21,Computer,51.88,2024-12-25,Destinyland,Year 3,Moore LLC
+7797,Julian Vargas,Female,23,Computer,49.46,2024-12-06,Jamesfurt,Year 4,"Mercer, Davis and Brown"
+8932,Scott Jones,Male,23,Computer,42.81,2025-01-10,Stephenmouth,Year 2,Brown-Cooper
+2257,Craig Grimes,Female,23,English,78.75,2025-09-24,Coleland,Year 1,Lawrence LLC
+5956,Peter Porter,Female,18,Science,58.33,2025-01-22,North Shannonchester,Year 1,"Hamilton, Flores and Payne"
+2834,Alexander Carpenter,Male,24,Math,81.94,2025-09-16,North Cherylchester,Year 1,"Buchanan, Hodges and Melendez"
+6347,Steven Austin,Female,22,Math,41.5,2025-09-13,Port Shawn,Year 3,"Nguyen, Zimmerman and Joseph"
+3590,Barbara Murillo,Female,23,English,88.45,2025-02-26,New Gregorymouth,Year 4,Mendez Inc
+1069,Hector Warner,Female,19,History,97.02,2025-04-16,Caitlynmouth,Year 4,"Martinez, Stevens and Moore"
+9186,Stanley Atkinson,Female,25,Science,80.28,2024-10-27,Robertsonberg,Year 1,Hall Inc
+7949,Jacob Hodge,Male,20,Math,55.55,2025-06-24,Lake Christopher,Year 1,"Hammond, Delacruz and Santana"
+3640,Jessica Pittman,Male,24,Science,77.61,2025-08-17,Sandersburgh,Year 1,Johnson-Porter
+9118,Laura Sullivan,Male,20,History,64.75,2025-01-05,Jonesberg,Year 4,Patterson-Zuniga
+3830,Gary Mccoy,Female,22,Science,74.79,2025-07-11,Frankstad,Year 1,Mullins-Nash
+1074,Brittany Miller,Female,18,History,76.22,2025-02-06,Lisahaven,Year 2,Macdonald LLC
+8304,Julie Lewis,Female,23,Science,94.24,2024-12-16,New Wendy,Year 3,"Strong, Reed and Hanna"
+7375,Shannon Nielsen,Female,19,Computer,55.95,2025-01-29,Smithmouth,Year 3,Collins LLC
+1389,Jay Johnston,Female,25,Computer,81.33,2025-07-18,New Monicaborough,Year 4,Williams-Phillips
+2684,Jimmy Trevino,Female,24,Science,92.35,2025-03-19,New Josephside,Year 1,Nunez-Smith
+4207,Melissa Rose,Female,18,Science,41.52,2025-08-24,East Williamberg,Year 2,Young PLC
+7135,Kathleen Taylor,Female,22,Science,87.96,2025-07-19,Willisfurt,Year 1,Russell LLC
+1950,Becky Shea,Male,23,English,53.29,2025-01-04,Lake David,Year 1,Ortiz-Malone
+1166,Matthew Norris,Male,25,Science,77.33,2025-08-11,Lake Davidside,Year 2,"Taylor, Simmons and Lopez"
+1832,Lucas Hall,Male,25,Math,85.92,2025-10-07,Martinton,Year 4,Collins-Reeves
+9895,Erik Macdonald,Female,18,Computer,44.08,2024-11-25,Simonton,Year 1,Simon LLC
+9351,Lisa Osborn,Female,19,Math,84.34,2025-07-26,Port Sarah,Year 1,"Hunt, Cross and Sutton"
+9384,Alexander Sexton,Female,23,Science,81.66,2025-03-20,Lake Erin,Year 1,"Warren, Mason and Rios"
+6110,James Thomas,Female,21,Computer,58.55,2025-06-07,Lake Kevinfort,Year 3,Alvarez PLC
+3566,Karen Garcia,Female,20,Computer,74.89,2024-12-14,Cunninghamport,Year 1,Jenkins-Lee
+1457,Christopher Collins III,Male,21,History,98.7,2024-11-13,South Jeffrey,Year 2,Gamble-Cline
+1474,Paula Orozco,Male,22,History,52.13,2024-12-23,North Breanna,Year 3,Dean-Ballard
+9476,Ashley Miller,Female,24,Science,61.31,2025-05-30,Amystad,Year 2,"Walters, Burch and Frost"
+6491,Thomas Acosta,Female,20,Math,65.59,2025-02-01,New Mollychester,Year 1,"Nichols, Jones and Bradford"
+8328,Laurie Williams,Female,20,English,73.22,2025-06-25,Port Katherine,Year 4,Dawson-Saunders
+5923,Jessica Stevens,Female,20,English,91.69,2024-11-08,Kimberlyport,Year 1,"Ward, Jackson and Stafford"
+2569,Barbara Miller,Female,20,Math,55.36,2025-04-18,Crosbyland,Year 2,Scott Inc
+9677,Donald Brewer,Female,24,Math,72.44,2025-10-03,Johnland,Year 1,Pace-Guerrero
+9111,Melissa Clark,Male,22,English,83.12,2025-07-06,Emilystad,Year 4,Wolfe-Campbell
+7780,Joseph Hughes,Female,19,Computer,54.29,2025-08-08,Lake Scott,Year 3,Mcgrath Inc
+3282,Kenneth Andrade,Male,19,English,81.65,2025-08-31,South Jasonmouth,Year 3,Gibson-Francis
+1602,William Ford,Male,19,Math,94.01,2025-06-03,Bethbury,Year 2,Wheeler-Hartman
+4251,Debra Torres,Female,24,Computer,63.76,2025-04-19,West Michael,Year 3,Morales Ltd
+5762,Ellen Mahoney,Male,21,Science,48.52,2024-10-20,Bradleyland,Year 1,"Boyd, Lopez and Scott"
+8391,Michelle Johnson,Male,20,Math,83.7,2025-07-12,New Jasonmouth,Year 4,Glover-Miller
+3373,Edward Gillespie,Male,23,History,89.92,2024-12-11,Kellyfurt,Year 4,"Maldonado, Rivera and Savage"
+9696,Robert Jenkins,Male,18,Math,60.91,2024-10-31,Port Nichole,Year 2,Price-Moore
+5680,Adam Alexander PhD,Female,23,History,96.7,2025-01-17,Holmesberg,Year 2,Bass-Hoover
+5131,Amanda Henderson,Male,19,English,81.54,2025-01-19,Lake Dylan,Year 4,"Hall, Garcia and Carney"
+3112,Doris Freeman,Male,22,Computer,93.36,2025-10-04,West Josetown,Year 2,Ortiz PLC
+9879,Stephanie Chambers,Female,24,Math,78.71,2025-01-20,Huffmanfurt,Year 3,Harris and Sons
+9910,Nicholas Davis,Female,20,Math,55.94,2024-11-21,North Kara,Year 4,"Campbell, Jarvis and Bryant"
+3785,Nicholas Williams,Female,24,Math,72.54,2025-04-30,Gonzalezburgh,Year 1,"Smith, Brown and Lopez"
+2035,Kathleen Anderson,Male,20,Computer,63.62,2025-10-14,North Eric,Year 2,Harrell LLC
+2295,Tim Smith,Male,22,Math,43.14,2025-07-26,Aaronmouth,Year 3,Hall-Fitzgerald
+1434,John Smith,Male,25,English,72.41,2025-03-13,New Angelafurt,Year 2,"Hampton, Henry and Brooks"
+9399,Mark Marks,Female,24,English,79.41,2024-12-26,Bradfordborough,Year 2,Howell Inc
+1958,Ashley Neal,Male,23,English,92.95,2025-01-01,South Kenneth,Year 4,Bullock-Salinas
+7255,Kyle Boyle,Male,18,Computer,71.3,2025-03-18,Christinabury,Year 1,Warren-Jensen
+1455,Scott Edwards,Male,25,History,58.51,2025-08-18,Joelchester,Year 3,Quinn Inc
+8373,Jessica Sellers,Female,23,English,40.03,2025-02-22,Mcdanielville,Year 4,Snyder LLC
+1770,Carrie Smith,Male,23,Computer,46.68,2024-11-23,New John,Year 4,Cabrera PLC
+7334,Nancy Roberts,Female,23,Science,90.54,2025-09-06,Stephaniefurt,Year 1,Bryant Ltd
+3311,Rickey Larson,Male,22,History,88.59,2025-09-24,Sarahhaven,Year 1,Ashley Inc
+9684,Kimberly Sanchez,Female,22,Science,82.3,2025-06-13,Benjaminhaven,Year 3,"Molina, Carroll and Thompson"
+5287,Ryan Maddox,Female,23,History,72.92,2024-12-30,Sabrinabury,Year 1,Johnson Group
+3196,Joshua Simon,Male,18,Science,85.36,2025-03-11,Victoriabury,Year 4,"Reynolds, Davis and Petty"
+6220,Christopher Parker,Female,18,English,49.2,2025-06-25,Wagnerstad,Year 1,Diaz Group
+3832,Jennifer Davidson,Male,23,Science,41.65,2025-04-07,Port Jeanneland,Year 2,Harris Inc
+2841,Daniel Evans,Male,21,History,97.6,2024-11-14,Jamesborough,Year 2,"Clark, Williams and Dixon"
+6039,Brenda Miller,Male,20,English,82.12,2025-07-19,New Johnstad,Year 2,Johnson-Mcdaniel
+7384,Nicole Savage,Female,19,Science,76.13,2025-09-24,Joneschester,Year 3,"Miller, Christensen and Cervantes"
+5506,Kelli Mason,Male,23,Computer,40.91,2024-11-11,East Jennifer,Year 3,Hernandez LLC
+4730,David Cook,Female,21,Science,86.43,2025-03-28,Lake Mariaside,Year 4,Thompson Ltd
+3929,Gregory Kelley,Female,22,Computer,84.3,2024-11-19,East Angelica,Year 1,Koch Group
+3544,John James,Male,23,History,58.24,2025-08-16,New Sandra,Year 4,Black-Tyler
+8363,Catherine Forbes,Male,25,Computer,75.05,2025-01-31,Ramosberg,Year 3,"Ramirez, Patel and Diaz"
+5781,Nichole Joseph,Female,22,Computer,92.04,2024-12-08,Port Kurtchester,Year 3,Smith LLC
+8192,Chad Lucero,Female,18,Science,89.27,2025-04-09,South Helen,Year 4,Rose Ltd
+5895,Robert Everett,Female,22,English,74.09,2024-12-25,Lake Dave,Year 4,"Rodriguez, Wright and Perkins"
+8637,Kent Meyer,Female,21,English,73.71,2025-07-06,Manningview,Year 3,Perry and Sons
+6319,Russell Johnson,Female,18,Math,91.96,2025-10-05,West Charles,Year 1,Rivera Group
+6953,Devin Lewis,Male,19,History,56.11,2025-02-25,Johnshire,Year 1,"Kerr, Walker and Kline"
+6613,Michael Smith,Female,25,English,95.46,2025-09-09,Jeffreyburgh,Year 1,"Dennis, Young and Martinez"
+6766,Katie Terry,Female,22,History,57.52,2024-11-26,New Judymouth,Year 3,Chapman-Robles
+1241,Robin Solis,Female,25,English,46.0,2025-10-09,Summersmouth,Year 1,Crane Inc
+7534,Madison Lopez,Female,18,English,48.23,2025-07-25,North Kayla,Year 2,Logan Ltd
+6012,Diane Fleming,Female,19,History,99.9,2025-07-17,East Jennymouth,Year 3,"Savage, Mata and Campos"
+6670,Jose Gray,Female,23,English,70.94,2025-05-19,North Alisha,Year 4,"Baker, Patterson and Brennan"
+1288,Lori Pruitt,Female,24,Science,51.16,2025-04-16,East Johnny,Year 2,"Armstrong, Warren and Cole"
+7225,Kyle Martin,Female,19,English,84.9,2025-02-04,Johnsonmouth,Year 1,Armstrong-Garcia
+4175,Michelle Jefferson,Female,20,Computer,57.15,2025-02-09,New Daniel,Year 3,"Brown, Watkins and Wilson"
+5269,Brittany Munoz,Female,24,English,73.36,2025-05-06,South Richard,Year 2,Key Group
+4349,Eileen Cruz,Male,21,History,98.66,2025-09-01,New Brian,Year 2,"Miller, Jordan and Rowland"
+7174,Kevin Baker,Male,20,History,48.29,2025-02-24,South Heidiborough,Year 1,"Hawkins, Grant and Mitchell"
+9376,Lori Kramer,Female,21,Computer,42.76,2025-09-16,South James,Year 2,Robbins-Holland
+6331,Brittany Jackson,Male,21,Computer,77.39,2025-09-06,West Ashley,Year 3,"Davis, Lee and Boyer"
+1875,Mary Gallegos,Female,25,History,54.85,2024-11-01,Gonzalezmouth,Year 2,"Vang, Burns and Wagner"
+9163,Stephanie Ortiz,Female,21,English,64.6,2025-07-23,Danielmouth,Year 2,Ballard Ltd
+5479,Linda Kirk,Male,19,English,47.57,2025-09-03,Hallton,Year 4,Howe Inc
+8296,Thomas Frye,Male,19,English,47.12,2025-06-09,East Sarah,Year 4,"Murray, Hunter and Todd"
+3600,Lacey Rodriguez,Male,20,Computer,96.42,2025-03-12,Brianstad,Year 1,Zamora PLC
+6452,David Clark,Male,20,History,52.29,2025-07-16,North Danielle,Year 2,"Garcia, Scott and Kim"
+7167,Robert Oconnell,Male,18,English,70.62,2025-04-16,Shafferview,Year 1,Powell-Lara
+8012,Debra Gaines,Male,20,Science,91.9,2025-07-24,Port Johnmouth,Year 1,Johnson-Lopez
+4140,Megan Farmer,Male,18,Math,68.53,2025-03-20,Robertview,Year 1,Vargas PLC
+9103,Andrew Wood,Female,23,Math,74.17,2025-07-27,Port Benjamin,Year 3,Castillo-Baker
+3944,Mallory Stevenson,Male,24,Science,94.41,2025-01-06,West Brenda,Year 2,"Parker, Lloyd and Rogers"
+9542,Christopher Thompson DDS,Female,25,English,47.71,2025-01-20,North Danielshire,Year 4,"Adkins, Yang and Gregory"
+1700,Spencer King,Male,25,English,69.2,2025-05-12,North Paul,Year 2,Weiss-Garcia
+7706,Nicole Blake,Male,24,Math,45.52,2025-07-10,Chavezmouth,Year 2,"Gill, Day and Taylor"
+5977,James Mccormick,Female,22,Science,96.54,2024-11-14,South Yolandashire,Year 4,Jackson-Young
+9141,Lindsay Gordon,Male,20,Science,47.01,2025-08-12,North Angela,Year 4,"Gordon, Drake and Patterson"
+5870,Matthew Mcfarland,Female,18,Science,86.82,2025-06-18,Lake Brookeberg,Year 3,Caldwell Inc
+1581,Bradley Lambert,Male,18,Math,89.83,2025-07-11,Hillfort,Year 2,Swanson PLC
+4972,Andrea Tucker,Male,25,Science,49.13,2025-08-02,Snowview,Year 1,"Cox, Cole and Barnes"
+3904,Chelsea Campbell,Female,22,Science,55.26,2024-10-23,Jamesbury,Year 1,"English, Curry and Garcia"
+8686,Andrew Gordon,Female,23,English,92.83,2024-11-18,Lake Jessicaland,Year 3,"White, Donaldson and Walter"
+2205,Mr. Michael Melendez Jr.,Female,24,Science,66.0,2025-05-23,Juarezfurt,Year 1,"Campos, Anderson and Perez"
+4177,Zoe Mendoza,Male,20,History,99.16,2024-12-10,Julieville,Year 3,"Estrada, Stewart and Ramos"
+4896,Jared Powers,Male,24,English,83.11,2025-03-11,Calderonfurt,Year 1,"Holt, Moore and Swanson"
+5679,Carolyn Estrada,Female,20,Computer,86.88,2024-12-11,Port Jessicaside,Year 3,Walsh-King
+8510,Sarah Cooper,Male,24,Science,57.79,2025-07-24,East Richardview,Year 1,"Zamora, Montgomery and Velasquez"
+4243,Ruth White MD,Male,22,English,70.44,2025-07-16,North Cynthia,Year 1,Johnson-Terry
+7673,Madeline Castro,Male,25,History,53.93,2025-04-17,Wardberg,Year 4,Hayes and Sons
+2069,Lisa Martinez,Female,19,Math,52.92,2025-03-12,East Erik,Year 2,Evans-Cooper
+7641,Peggy Smith DDS,Male,25,Computer,92.73,2025-08-26,Walkershire,Year 4,Williams-Green
+5776,Jason Rasmussen,Male,24,English,99.55,2025-08-31,Port Michael,Year 1,Mills-Hamilton
+9592,Linda Nelson,Female,24,English,81.06,2025-04-25,Martinezbury,Year 2,Johnson-Smith
+1652,William Carpenter,Female,23,Math,41.91,2024-11-29,Madisonmouth,Year 1,"Jones, Brooks and Hughes"
+9482,Jessica Nichols,Female,21,History,74.16,2025-04-04,Port Brooke,Year 3,"Patel, Washington and Coleman"
+6896,Gregory Ramirez,Female,19,History,75.27,2025-02-07,Michealtown,Year 1,Leblanc-Moses
+3658,Mark Holland,Female,18,History,47.59,2025-04-19,Patriciaberg,Year 2,Yates PLC
+5017,Stephanie Brown,Female,21,Science,84.56,2025-10-02,North Hunter,Year 2,Young Inc
+6296,Wendy Estes,Female,20,History,44.84,2025-09-23,Lake Angela,Year 2,"Greer, Fleming and Boyd"
+6626,Krystal Patterson,Male,24,English,64.79,2024-12-25,Faulknerside,Year 4,"Myers, Bates and Patton"
+7215,Deborah Barber,Male,18,Math,87.46,2025-05-15,Debrabury,Year 1,Ochoa Inc
+5909,George Christian,Male,18,History,71.21,2025-06-05,Lake Hannahton,Year 3,Stone-Rose
+4889,William Hanna,Female,23,Computer,54.95,2024-11-17,Tylerside,Year 4,"Neal, Lowe and Wilson"
+6361,Maria Hall,Female,23,English,79.65,2025-08-04,East Johnburgh,Year 4,Bowen-Roman
+9294,Arthur Pearson,Female,20,Math,68.72,2025-03-06,Matthewville,Year 4,Williams-Dougherty
+3026,Johnathan Nichols,Male,21,Computer,89.97,2025-08-30,Johnsonland,Year 1,Vaughan PLC
+8122,Brianna Evans,Female,23,Math,43.35,2024-12-14,North Charles,Year 2,"Garner, Hubbard and Lewis"
+5146,Bryan Cline,Female,18,History,57.73,2025-08-01,Ambershire,Year 1,Vega Group
+6963,Michele Gibson,Male,25,English,66.25,2025-05-08,Hoodfurt,Year 1,Campbell LLC
+9113,Kathleen Bolton,Male,19,Science,77.93,2025-07-19,North Justin,Year 3,Graves Group
+1586,Seth Black,Male,18,Math,65.33,2025-04-12,South Andrewmouth,Year 1,Clark LLC
+6473,Michael Cohen,Female,24,Computer,66.26,2024-12-28,South Timothyhaven,Year 2,Harrington-Nichols
+8429,Katie Lopez,Male,22,Science,79.28,2025-07-11,West Patriciaberg,Year 3,"Jones, Torres and Snyder"
+9000,Paul Joseph,Male,20,History,49.41,2024-12-10,West Shannonstad,Year 2,"Clark, Stewart and Wang"
+3609,Kristine Mendez,Male,18,History,50.44,2025-08-04,Thomasmouth,Year 3,Parker-Farmer
+1205,Beth West,Male,21,Computer,92.56,2024-12-19,Lake Raymond,Year 2,Brown-Miller
+2015,Julia Wolfe,Female,24,Computer,64.84,2025-07-31,South Allenchester,Year 2,Owens-Smith
+6814,Samuel Harper,Male,24,Computer,82.4,2025-04-23,Saraborough,Year 4,Lee-Butler
+7616,Melissa Graham,Female,19,Computer,54.84,2025-02-07,Bobbyport,Year 4,Sanders-Olson
+3738,Nicholas White,Male,20,English,61.09,2025-05-27,East Misty,Year 3,Scott-Alvarez
+2416,Abigail Bell,Female,24,English,69.51,2025-07-06,Danielton,Year 1,"Reese, Wagner and Jackson"
+7825,Thomas Gordon,Female,25,Math,76.27,2025-02-23,West Barbaraville,Year 4,Beasley Group
+1188,Brandon Parker,Female,23,History,75.5,2025-03-31,Mcknightview,Year 3,Harmon Ltd
+3443,Sabrina Mills,Male,25,English,54.95,2025-05-08,New Emily,Year 2,Sullivan LLC
+3129,James Moreno,Female,23,English,71.8,2025-08-07,Laurabury,Year 4,"Johnson, Harrison and Mclean"
+6441,Rebecca Rivera,Male,20,Science,66.67,2025-10-12,Lake Marcus,Year 3,Ruiz and Sons
+9301,Jacob Clark,Female,19,Science,74.39,2025-07-25,West Colleen,Year 2,Robertson-Scott
+2601,Brandon Moore,Female,24,Computer,77.47,2025-09-06,Duncanburgh,Year 1,"Baldwin, Bowman and Brown"
+7005,Ronald Brown,Male,18,Math,48.02,2025-02-02,West Lisatown,Year 3,"Greene, Duran and Shepherd"
+7795,Jennifer Foster,Male,21,Computer,56.62,2025-05-29,Nelsonside,Year 4,Russell-Moore
+2697,Mrs. Jennifer Jones,Female,24,Computer,82.93,2024-11-12,Williamsview,Year 2,Rogers Inc
+2127,Susan Obrien,Female,22,History,45.6,2025-03-04,Arnoldborough,Year 4,Gardner-Miller
+9240,Briana Carter,Female,19,Math,89.58,2025-03-18,South Thomas,Year 2,Wright PLC
+4879,Douglas Mcpherson,Female,23,Math,99.24,2025-04-19,Beasleyville,Year 3,"Harris, Sutton and Robinson"
+3696,Robert Lee,Male,23,History,98.67,2025-01-30,Port Johnchester,Year 1,Campbell LLC
+4948,Michael Scott,Female,25,Computer,85.53,2025-01-27,South Robertbury,Year 4,Navarro Ltd
+2712,Michael Walsh,Male,22,Math,95.5,2025-04-21,Michaelmouth,Year 3,Keller-Smith
+9281,Jeffrey Kaiser,Male,19,Computer,72.42,2024-11-28,Richardsonberg,Year 2,Welch-Thomas
+2732,Judy Aguilar,Male,20,Computer,83.81,2025-05-15,Burgessland,Year 1,Sanchez-Evans
+5224,Ryan Baker,Female,24,Computer,91.21,2025-10-16,Figueroaburgh,Year 3,"Keller, Hill and Sanders"
+2074,Abigail Henry,Male,20,History,67.48,2024-11-01,South Andreaburgh,Year 3,"Stephens, Melton and Holmes"
+5510,Timothy Rush,Male,22,English,57.16,2025-08-28,West Lisa,Year 1,Anderson and Sons
+5390,Kirk Allen,Male,18,History,62.88,2025-03-14,Bennettside,Year 1,Green LLC
+9968,Dr. Chelsey Compton,Female,21,Computer,57.45,2025-05-10,South Mark,Year 3,"Miller, Green and Estrada"
+3903,David Dickerson,Male,22,Computer,58.28,2025-08-03,Andrewside,Year 2,Lawrence LLC
+9845,Mary Fuller,Male,24,Math,72.1,2024-11-05,Rickmouth,Year 4,Snyder and Sons
+4189,Anthony Knight,Female,22,Science,96.07,2025-03-07,Johnsonborough,Year 3,"Richardson, Benitez and Lyons"
+6979,James Le,Female,19,History,56.13,2024-12-16,Francoland,Year 1,Wilson and Sons
+4569,Mr. Joel Garza,Male,18,English,43.89,2025-09-27,Clementsport,Year 3,"Crane, Todd and Thompson"
+2910,Kevin Marshall,Female,21,English,43.36,2025-07-28,Shannonmouth,Year 2,Watson and Sons
+6596,Sara Green,Male,21,English,90.19,2025-05-24,Meyerborough,Year 3,"Vaughn, Fitzpatrick and Terry"
+7721,Nicholas Douglas,Male,21,Computer,54.89,2025-01-11,Lake Anthonymouth,Year 2,"Ryan, Nelson and Dean"
+8267,Jacqueline Johns,Male,18,Computer,64.56,2025-01-03,Mariatown,Year 1,Johnson-Cruz
+4958,Shannon Stevenson,Female,20,History,62.86,2025-02-01,Pachecohaven,Year 3,Heath-Gomez
+5347,Nancy Kline,Male,19,English,56.48,2024-12-25,Jerrymouth,Year 3,Sanchez-Jensen
+9817,Mary Herrera,Male,23,English,48.34,2025-03-30,Amyport,Year 1,White Group
+9038,Katrina Vasquez,Male,19,Math,40.42,2025-02-28,North Bonnie,Year 3,Jackson-Baker
+9540,James Walton,Female,21,Computer,43.14,2025-03-27,New Danielville,Year 4,Smith PLC
+9983,Glen White,Male,18,Math,71.82,2025-05-03,Virginiafurt,Year 2,Young-Hill
+4888,Heather Johnson,Male,20,History,87.25,2024-11-18,Reynoldsland,Year 1,Mendez LLC
+3753,Kristin Shah,Female,22,Science,69.51,2024-11-09,Michaeltown,Year 2,"Williams, Delgado and Smith"
+8753,John Clay,Female,23,Math,96.32,2025-05-03,New Tara,Year 3,"Ruiz, Maxwell and Williams"
+2199,Katelyn Stephens,Male,18,Math,71.75,2025-05-15,Matthewfurt,Year 4,"Thomas, Tran and Crawford"
+6312,Michele Hubbard,Female,25,Science,83.36,2025-04-19,North Corymouth,Year 2,Adams and Sons
+1976,Jerome Peters,Male,23,History,75.61,2025-04-25,New Johnbury,Year 3,"Brown, Giles and Nguyen"
+1830,Elizabeth Owens,Male,19,Science,79.02,2025-05-08,Kelleychester,Year 4,Oconnor Inc
+7219,Patrick Mejia,Male,23,History,40.04,2025-04-18,South Mindy,Year 1,Mack Ltd
+8076,Kenneth Cook,Female,22,Math,92.29,2025-09-11,Markborough,Year 1,Alexander Group
+5626,Jennifer Sanders,Male,25,History,77.7,2025-01-03,Lake Jonathan,Year 2,Mccall-Yoder
+1006,Katie Mcgee,Male,23,English,41.93,2025-04-17,New Jessicaburgh,Year 3,Bailey-Miller
+8697,Carl Cruz,Female,20,History,69.74,2025-08-14,Maynardberg,Year 1,"Brandt, Crosby and Daniels"
+7879,Misty Ferguson DDS,Male,24,Science,97.65,2025-05-27,Adammouth,Year 4,Ramirez-Rice
+7051,Scott Williams,Female,24,History,48.85,2025-10-11,Port Tracey,Year 3,Fox-Rodriguez
+4439,Barbara Lewis,Female,21,Computer,42.82,2024-10-24,New Robert,Year 2,"Robinson, Flores and Ramos"
+3931,Bryan Lee,Female,18,Math,45.99,2025-02-24,Martinezbury,Year 1,"Davis, Chen and Thompson"
+2949,Colin Case,Male,22,English,43.34,2025-06-05,West Andrewport,Year 1,Bradley-Cox
+4990,Katelyn Meadows,Female,20,Math,77.54,2025-07-08,Port Cherylland,Year 3,Nicholson Group
+8809,Zachary Walker,Male,19,History,60.18,2025-07-26,West Henry,Year 2,"Christian, Ramirez and Hernandez"
+5582,Victoria Woods,Male,20,Science,92.36,2025-09-05,Jessicaview,Year 2,Wood Group
